@@ -1,0 +1,37 @@
+{
+  "算个数":[
+    "{%_calculator}"
+  ],
+  "_calculator":[
+    "{%_node_start}"
+  ],
+  "_node_start":[
+    "{%_node_start_str}{%_node_int}]"
+  ],
+  "_node_start_str":[
+    "算算就算算："
+  ],
+  "_node_int":[
+    "0{%_node_operator}0",
+    "1{%_node_operator}1",
+    "2{%_node_operator}2",
+    "3{%_node_operator}3",
+    "4{%_node_operator}4",
+    "5{%_node_operator}5",
+    "6{%_node_operator}6",
+    "7{%_node_operator}7",
+    "8{%_node_operator}8",
+    "9{%_node_operator}9"
+  ],
+  "_node_operator":[
+    "+{%_node_int}+",
+    "×{%_node_int}*",
+    "{%_node_end}"
+  ],
+  "_node_end":[
+    "{%_node_end_str}["
+  ],
+  "_node_end_str":[
+    "="
+  ]
+}
