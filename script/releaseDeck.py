@@ -1,6 +1,7 @@
 import json
 import os
 import shutil
+from urllib import parse
 
 if __name__ == '__main__':
     index_data = {}
@@ -40,7 +41,10 @@ if __name__ == '__main__':
                         "version": meta_info_data.get(deck_name_this, {}).get('version', '1'),
                         "version_code": meta_info_data.get(deck_name_this, {}).get('version_code', 1),
                         "desc": meta_info_data.get(deck_name_this, {}).get('desc', ''),
-                        "download_link": meta_info_data.get(deck_name_this, {}).get('download_link', ''),
+                        "download_link": 'https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/%s%s' % (
+                            file_dir_path_real,
+                            parse.quote(deck_name_this)
+                        ),
                         "path": file_dir_path_real + deck_name_this,
                         "author": meta_info_data.get(deck_name_this, {}).get('author', deck_user_this),
                         "type": "deck",
