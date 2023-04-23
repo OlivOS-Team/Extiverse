@@ -36,19 +36,21 @@ if __name__ == '__main__':
                         deck_name = deck_name.rstrip('.json')
                     elif deck_name.endswith('.json5'):
                         deck_name = deck_name.rstrip('.json5')
+                    deck_url_path_this = file_dir_path_real + parse.quote(deck_name_this)
                     info_this = {
-                        "name": meta_info_data.get(deck_name_this, {}).get('name', deck_name),
-                        "version": meta_info_data.get(deck_name_this, {}).get('version', '1'),
-                        "version_code": meta_info_data.get(deck_name_this, {}).get('version_code', 1),
-                        "desc": meta_info_data.get(deck_name_this, {}).get('desc', ''),
-                        "download_link": 'https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/%s%s' % (
-                            file_dir_path_real,
-                            parse.quote(deck_name_this)
-                        ),
-                        "path": file_dir_path_real + deck_name_this,
-                        "author": meta_info_data.get(deck_name_this, {}).get('author', deck_user_this),
-                        "type": "deck",
-                        "sub_type": deck_type
+                        'name': meta_info_data.get(deck_name_this, {}).get('name', deck_name),
+                        'version': meta_info_data.get(deck_name_this, {}).get('version', '1'),
+                        'version_code': meta_info_data.get(deck_name_this, {}).get('version_code', 1),
+                        'desc': meta_info_data.get(deck_name_this, {}).get('desc', ''),
+                        'download_link': [
+                            f'https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/{deck_url_path_this}',
+                            f'https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/{deck_url_path_this}',
+                            f'https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/{deck_url_path_this}'
+                        ],
+                        'path': file_dir_path_real + deck_name_this,
+                        'author': meta_info_data.get(deck_name_this, {}).get('author', deck_user_this),
+                        'type': 'deck',
+                        'sub_type': deck_type
                     }
                     index_data[deck_type].append(info_this)
     os.makedirs('../target/deck/', exist_ok=True)
