@@ -826,10 +826,10 @@
             "sub_type": "classic"
         },
         {
-            "name": "UNO-UNO合集",
+            "name": "UNO牌",
             "version": "1",
             "version_code": 1,
-            "desc": "",
+            "desc": "包含了一套UNO卡牌",
             "download_link": "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/UNO-UNO%E5%90%88%E9%9B%86.json",
             "path": "deck/lunzhiPenxil/classic/UNO-UNO合集.json",
             "author": "lunzhiPenxil",
