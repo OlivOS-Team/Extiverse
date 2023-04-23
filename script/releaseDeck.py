@@ -53,6 +53,6 @@ if __name__ == '__main__':
                     index_data[deck_type].append(info_this)
     os.makedirs('../target/deck/', exist_ok=True)
     with open('../target/deck/index.json', 'w', encoding='utf-8') as f:
-        f.write(json.dumps(index_data, ensure_ascii=False))
+        f.write(json.dumps(index_data, indent=4, ensure_ascii=False))
     shutil.copyfile('../target/deck/index.json', '../deck/index.json')
     print('releaseDeck done!')
