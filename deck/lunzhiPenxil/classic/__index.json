@@ -89,5 +89,12 @@
         "version_code": 1,
         "desc": "包含DND3R法术",
         "author": "Fishroud, lunzhiPenxil"
+    },
+    "UNO-UNO合集.json": {
+        "name": "UNO牌",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含了一套UNO卡牌",
+        "author": "lunzhiPenxil"
     }
 }
