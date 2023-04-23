@@ -22,6 +22,7 @@ jobs:
           cd ./script/
           python -m pip install --upgrade pip
           python releaseDeck.py
+          cd ..
       - name: Upload
         uses: actions/upload-artifact@v3
         with:
