@@ -1,4 +1,4 @@
-name: CI
+name: releaseDeck
 on:
   workflow_dispatch:
   push:
