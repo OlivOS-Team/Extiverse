@@ -55,3 +55,4 @@ if __name__ == '__main__':
     with open('../target/deck/index.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(index_data, indent=4, ensure_ascii=False))
     shutil.copyfile('../target/deck/index.json', '../deck/index.json')
+    print('releaseDeck done!')
