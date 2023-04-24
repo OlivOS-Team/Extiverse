@@ -53,6 +53,7 @@ if __name__ == '__main__':
                         'sub_type': deck_type
                     }
                     index_data[deck_type].append(info_this)
+            index_data[deck_type].sort(key=lambda x: x['name'])
     os.makedirs('../target/deck/', exist_ok=True)
     with open('../target/deck/index.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(index_data, indent=4, ensure_ascii=False))
