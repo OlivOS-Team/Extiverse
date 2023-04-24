@@ -20,6 +20,13 @@
         "desc": "魔都模组牌堆，所有数据来自于魔都模组站：https://www.cnmods.net/。相关牌堆与帮助文档制作已获授权，模组版权归各位作者所有",
         "author": "lunzhiPenxil"
     },
+    "魔都模组卡片-CNMODSC.json": {
+        "name": "魔都模组卡片",
+        "version": "20200925",
+        "version_code": 1,
+        "desc": "魔都模组牌堆，所有数据来自于魔都模组站：https://www.cnmods.net/。相关牌堆与帮助文档制作已获授权，模组版权归各位作者所有",
+        "author": "lunzhiPenxil"
+    },
     "算个数.json": {
         "name": "算个数",
         "version": "1",
@@ -62,11 +69,67 @@
         "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
         "author": "lunzhiPenxil"
     },
+    "密教模拟器-密教-合集最终版.json": {
+        "name": "密教模拟器",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物。",
+        "author": "lunzhiPenxil"
+    },
     "密教模拟器-密教合集.json": {
         "name": "密教模拟器",
         "version": "1",
         "version_code": 1,
         "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教(工具-原料-仪式).json": {
+        "name": "密教模拟器",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中工具、原料、仪式。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教(教会-人物).json": {
+        "name": "密教模拟器",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中教会、人物。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教(漫宿-召唤-能力).json": {
+        "name": "密教模拟器",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中漫宿、召唤、能力。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教(密传-影响).json": {
+        "name": "密教模拟器",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中密传、影响。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教地点.json": {
+        "name": "密教模拟器",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中的地点。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教司辰.json": {
+        "name": "密教模拟器",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中的司辰。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教文献.json": {
+        "name": "密教模拟器",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中的文献。",
         "author": "lunzhiPenxil"
     },
     "阳炎计划-阳炎(歌曲-人物).json": {
