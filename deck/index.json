@@ -673,6 +673,20 @@
             "sub_type": "classic"
         },
         {
+            "name": "明日方舟",
+            "version": "0.1.0",
+            "version_code": 1,
+            "desc": "提交示例|此牌堆是群友写的。遵循CC4.0协议，请使用【.draw 老婆生成器】抽取牌堆。",
+            "download_link": [
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/HsiangNianian/classic/%E8%80%81%E5%A9%86%E7%94%9F%E6%88%90%E5%99%A8.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/HsiangNianian/classic/%E8%80%81%E5%A9%86%E7%94%9F%E6%88%90%E5%99%A8.jsonhttps://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/HsiangNianian/classic/%E8%80%81%E5%A9%86%E7%94%9F%E6%88%90%E5%99%A8.json"
+            ],
+            "path": "deck/HsiangNianian/classic/老婆生成器.json",
+            "author": "简律纯",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "明日方舟卡池",
             "version": "201111",
             "version_code": 1,
@@ -1075,6 +1089,20 @@
             ],
             "path": "deck/lunzhiPenxil/classic/魔都模组卡片-CNMODSC.json",
             "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "麦当劳",
+            "version": "1.0.0",
+            "version_code": 1,
+            "desc": "在不删除著名的前提下允许二改。支持麦麦打败疯狂星期四统治垃圾食物界！",
+            "download_link": [
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/Aile/classic/%E9%BA%A6%E5%BD%93%E5%8A%B3.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/Aile/classic/%E9%BA%A6%E5%BD%93%E5%8A%B3.jsonhttps://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/Aile/classic/%E9%BA%A6%E5%BD%93%E5%8A%B3.json"
+            ],
+            "path": "deck/Aile/classic/麦当劳.json",
+            "author": "荀羽",
             "type": "deck",
             "sub_type": "classic"
         },
