@@ -1,0 +1,58 @@
+{
+"_birthdaya1":[
+	"1st","2nd","3rd","4th","5th",
+	"6th","7th","8th","9th","10th",
+	"11th","12th","13th","14th","15th",
+	"16th","17th","18th","19th","20th",
+	"21st","22nd","23rd","24th","25th",
+	"26th","27th","28th","29th","30th",
+	"31st"],
+"_birthdayb1":[
+	"1st","2nd","3rd","4th","5th",
+	"6th","7th","8th","9th","10th",
+	"11th","12th","13th","14th","15th",
+	"16th","17th","18th","19th","20th",
+	"21st","22nd","23rd","24th","25th",
+	"26th","27th","28th","29th","30th"
+	],
+"_birthdayc1":[
+	"1st","2nd","3rd","4th","5th",
+	"6th","7th","8th","9th","10th",
+	"11th","12th","13th","14th","15th",
+	"16th","17th","18th","19th","20th",
+	"21st","22nd","23rd","24th","25th",
+	"26th","27th","28th","29th"],
+"_birthdayd1":[
+	"1st","2nd","3rd","4th","5th",
+	"6th","7th","8th","9th","10th",
+	"11th","12th","13th","14th","15th",
+	"16th","17th","18th","19th","20th",
+	"21st","22nd","23rd","24th","25th",
+	"26th","27th","28th"],
+"dates":[
+	"::31::Jan.{%_birthdaya1}",
+	"::28::Feb.{%_birthdayd1}",
+	"::31::Mar.{%_birthdaya1}",
+	"::30::Apr.{%_birthdayb1}",
+	"::31::May.{%_birthdaya1}",
+	"::30::Jun.{%_birthdayb1}",
+	"::31::Jul.{%_birthdaya1}",
+	"::31::Aug.{%_birthdaya1}",
+	"::30::Sep.{%_birthdayb1}",
+	"::31::Oct.{%_birthdaya1}",
+	"::30::Nov.{%_birthdayb1}",
+	"::31::Dec.{%_birthdaya1}"],
+"dates1":[
+	"::31::Jan.{%_birthdaya1}",
+	"::29::Feb.{%_birthdayc1}",
+	"::31::Mar.{%_birthdaya1}",
+	"::30::Apr.{%_birthdayb1}",
+	"::31::May.{%_birthdaya1}",
+	"::30::Jun.{%_birthdayb1}",
+	"::31::Jul.{%_birthdaya1}",
+	"::31::Aug.{%_birthdaya1}",
+	"::30::Sep.{%_birthdayb1}",
+	"::31::Oct.{%_birthdaya1}",
+	"::30::Nov.{%_birthdayb1}",
+	"::31::Dec.{%_birthdaya1}"]
+}
