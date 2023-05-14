@@ -1,0 +1,16 @@
+{
+  "dates.json":{
+    "name":"日期抽取",
+    "version":"20230514",
+    "version_code":2,
+    "desc":"日期抽取。dates为365天抽取，dates1为含2月29日的日期抽取。",
+    "author":"滦浣春_6hc"
+},
+{
+  "birthday.json":{
+    "name":"生日抽取",
+    "version":"20230514",
+    "version_code":2,
+    "desc":"生日抽取。birthday为365天抽取，birthday1为含2月29日的抽取。",
+    "author":"滦浣春_6hc"
+}
