@@ -659,6 +659,20 @@
             "sub_type": "classic"
         },
         {
+            "name": "日期抽取",
+            "version": "20230514",
+            "version_code": 2,
+            "desc": "日期抽取。dates为365天抽取，dates1为含2月29日的日期抽取。",
+            "download_link": [
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/luanhuanchun/classic/dates.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/luanhuanchun/classic/dates.jsonhttps://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/luanhuanchun/classic/dates.json"
+            ],
+            "path": "deck/luanhuanchun/classic/dates.json",
+            "author": "滦浣春_6hc",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "明日方舟",
             "version": "201111",
             "version_code": 1,
@@ -823,6 +837,20 @@
             ],
             "path": "deck/akashic4869/classic/猫咪种类.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "生日抽取",
+            "version": "20230514",
+            "version_code": 2,
+            "desc": "生日抽取。birthday为365天抽取，birthday1为含2月29日的抽取。",
+            "download_link": [
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/luanhuanchun/classic/birthday.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/luanhuanchun/classic/birthday.jsonhttps://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/luanhuanchun/classic/birthday.json"
+            ],
+            "path": "deck/luanhuanchun/classic/birthday.json",
+            "author": "滦浣春_6hc",
             "type": "deck",
             "sub_type": "classic"
         },
