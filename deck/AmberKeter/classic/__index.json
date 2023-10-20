@@ -1,0 +1,9 @@
+{
+    "cdda变异.json": {
+        "name": "CDDA变异抽取",
+        "version": "1.0.1",
+        "version_code": 1,
+        "desc": "CDDA变异抽取，包含0.E版本的所有变异（含官方自带的MOD内容）",
+        "author": "AmberKeter"
+    }
+}
