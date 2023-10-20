@@ -43,6 +43,20 @@
             "sub_type": "classic"
         },
         {
+            "name": "CDDA变异抽取",
+            "version": "1.0.1",
+            "version_code": 1,
+            "desc": "CDDA变异抽取，包含0.E版本的所有变异（含官方自带的MOD内容）",
+            "download_link": [
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/AmberKeter/classic/cdda%E5%8F%98%E5%BC%82.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/AmberKeter/classic/cdda%E5%8F%98%E5%BC%82.jsonhttps://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/AmberKeter/classic/cdda%E5%8F%98%E5%BC%82.json"
+            ],
+            "path": "deck/AmberKeter/classic/cdda变异.json",
+            "author": "AmberKeter",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "CP文梗关键词",
             "version": "1",
             "version_code": 1,
