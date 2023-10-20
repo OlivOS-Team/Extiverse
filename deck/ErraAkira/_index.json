@@ -1,0 +1,16 @@
+{
+    "骑士运势.json": {
+        "name": "骑士运势",
+        "version": "0.5.0",
+        "version_code": 1,
+        "desc": "在不删除著名的前提下允许二改。增加更多骑士梗运势",
+        "author": "ErraAkira（Github用户名）"
+    },
+    "Eternal唱歌检测.json": {
+        "name": "Eternal唱歌检测",
+        "version": "0.5.0",
+        "version_code": 1,
+        "desc": "在不删除著名的前提下允许二改。并且一定要保留唱《W》时不触发W抓捕的结果,视频借于up主天琅焰的翻译视频。",
+        "author": "ErraAkira（Github用户名）"
+    }
+}
