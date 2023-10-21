@@ -99,6 +99,20 @@
             "sub_type": "classic"
         },
         {
+            "name": "Eternal唱歌检测",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/ErraAkira/classic/Eternal%E5%94%B1%E6%AD%8C%E6%A3%80%E6%B5%8B.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/ErraAkira/classic/Eternal%E5%94%B1%E6%AD%8C%E6%A3%80%E6%B5%8B.jsonhttps://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/ErraAkira/classic/Eternal%E5%94%B1%E6%AD%8C%E6%A3%80%E6%B5%8B.json"
+            ],
+            "path": "deck/ErraAkira/classic/Eternal唱歌检测.json",
+            "author": "ErraAkira",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "KPC欢乐餐厅v1.1",
             "version": "1",
             "version_code": 1,
@@ -1061,6 +1075,20 @@
             ],
             "path": "deck/akashic4869/classic/阴阳师十连抽(格式更新).json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "骑士运势",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/ErraAkira/classic/%E9%AA%91%E5%A3%AB%E8%BF%90%E5%8A%BF.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/ErraAkira/classic/%E9%AA%91%E5%A3%AB%E8%BF%90%E5%8A%BF.jsonhttps://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/ErraAkira/classic/%E9%AA%91%E5%A3%AB%E8%BF%90%E5%8A%BF.json"
+            ],
+            "path": "deck/ErraAkira/classic/骑士运势.json",
+            "author": "ErraAkira",
             "type": "deck",
             "sub_type": "classic"
         },
