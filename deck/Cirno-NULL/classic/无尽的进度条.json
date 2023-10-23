@@ -1041,11 +1041,11 @@
         "::99::章节{_罗马数字}"
     ],
     "_attacka": [
-        "::10::",
+        "::10:: ",
         "{_OffenseBad}"
     ],
     "_defencea": [
-        "::2::",
+        "::2:: ",
         "{_DefenseAttrib}",
         "{_DefenseBad}"
     ],
