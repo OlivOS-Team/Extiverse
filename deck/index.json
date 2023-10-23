@@ -433,6 +433,22 @@
             "sub_type": "classic"
         },
         {
+            "name": "唐诗三百首",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/Cirno-NULL/classic/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/Cirno-NULL/classic/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/Cirno-NULL/classic/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json"
+            ],
+            "path": "deck/Cirno-NULL/classic/唐诗三百首.json",
+            "author": "Cirno-NULL",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "圣诞节",
             "version": "1",
             "version_code": 1,
@@ -525,6 +541,22 @@
             ],
             "path": "deck/RE/classic/奥特曼.json",
             "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "孙子兵法",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/Cirno-NULL/classic/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/Cirno-NULL/classic/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/Cirno-NULL/classic/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95.json"
+            ],
+            "path": "deck/Cirno-NULL/classic/孙子兵法.json",
+            "author": "Cirno-NULL",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -813,6 +845,22 @@
             ],
             "path": "deck/akashic4869/classic/攻受测试-半成品.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "无尽的进度条",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E6%97%A0%E5%B0%BD%E7%9A%84%E8%BF%9B%E5%BA%A6%E6%9D%A1.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/Cirno-NULL/classic/%E6%97%A0%E5%B0%BD%E7%9A%84%E8%BF%9B%E5%BA%A6%E6%9D%A1.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/Cirno-NULL/classic/%E6%97%A0%E5%B0%BD%E7%9A%84%E8%BF%9B%E5%BA%A6%E6%9D%A1.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/Cirno-NULL/classic/%E6%97%A0%E5%B0%BD%E7%9A%84%E8%BF%9B%E5%BA%A6%E6%9D%A1.json"
+            ],
+            "path": "deck/Cirno-NULL/classic/无尽的进度条.json",
+            "author": "Cirno-NULL",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -1457,6 +1505,22 @@
             "sub_type": "classic"
         },
         {
+            "name": "道德经",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E9%81%93%E5%BE%B7%E7%BB%8F.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/Cirno-NULL/classic/%E9%81%93%E5%BE%B7%E7%BB%8F.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/Cirno-NULL/classic/%E9%81%93%E5%BE%B7%E7%BB%8F.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/Cirno-NULL/classic/%E9%81%93%E5%BE%B7%E7%BB%8F.json"
+            ],
+            "path": "deck/Cirno-NULL/classic/道德经.json",
+            "author": "Cirno-NULL",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "邪神召唤",
             "version": "1",
             "version_code": 1,
@@ -1517,6 +1581,22 @@
             ],
             "path": "deck/akashic4869/classic/阴阳师十连抽(格式更新).json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "随机团",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E9%9A%8F%E6%9C%BA%E5%9B%A2.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/Cirno-NULL/classic/%E9%9A%8F%E6%9C%BA%E5%9B%A2.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/Cirno-NULL/classic/%E9%9A%8F%E6%9C%BA%E5%9B%A2.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/Cirno-NULL/classic/%E9%9A%8F%E6%9C%BA%E5%9B%A2.json"
+            ],
+            "path": "deck/Cirno-NULL/classic/随机团.json",
+            "author": "Cirno-NULL",
             "type": "deck",
             "sub_type": "classic"
         },
