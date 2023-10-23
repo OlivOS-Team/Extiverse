@@ -62,6 +62,13 @@
         "desc": "抽取毒鸡汤",
         "author": "lunzhiPenxil"
     },
+    "艾尔登法环.json": {
+        "name": "艾尔登法环",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含艾尔登法环中的武器、防具、道具、饰品、法术、战灰。全部文案来自艾尔登法环游戏数据解包，版权归FromSoftware所有。",
+        "author": "lunzhiPenxil"
+    },
     "黑暗之魂-黑魂合集.json": {
         "name": "黑暗之魂",
         "version": "1",
