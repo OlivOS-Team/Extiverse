@@ -513,6 +513,22 @@
             "sub_type": "classic"
         },
         {
+            "name": "奥特曼",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E5%A5%A5%E7%89%B9%E6%9B%BC.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E5%A5%A5%E7%89%B9%E6%9B%BC.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E5%A5%A5%E7%89%B9%E6%9B%BC.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E5%A5%A5%E7%89%B9%E6%9B%BC.json"
+            ],
+            "path": "deck/RE/classic/奥特曼.json",
+            "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "宝可梦",
             "version": "1",
             "version_code": 1,
@@ -685,6 +701,22 @@
             ],
             "path": "deck/lunzhiPenxil/classic/密教模拟器-密教文献.json",
             "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "平安京",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E5%B9%B3%E5%AE%89%E4%BA%AC.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E5%B9%B3%E5%AE%89%E4%BA%AC.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E5%B9%B3%E5%AE%89%E4%BA%AC.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E5%B9%B3%E5%AE%89%E4%BA%AC.json"
+            ],
+            "path": "deck/RE/classic/平安京.json",
+            "author": "RE",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -881,6 +913,38 @@
             "sub_type": "classic"
         },
         {
+            "name": "武功",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E6%AD%A6%E5%8A%9F.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E6%AD%A6%E5%8A%9F.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E6%AD%A6%E5%8A%9F.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E6%AD%A6%E5%8A%9F.json"
+            ],
+            "path": "deck/RE/classic/武功.json",
+            "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "武技",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E6%AD%A6%E6%8A%80.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E6%AD%A6%E6%8A%80.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E6%AD%A6%E6%8A%80.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E6%AD%A6%E6%8A%80.json"
+            ],
+            "path": "deck/RE/classic/武技.json",
+            "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "毒鸡汤",
             "version": "1",
             "version_code": 1,
@@ -945,6 +1009,22 @@
             "sub_type": "classic"
         },
         {
+            "name": "法术",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E6%B3%95%E6%9C%AF.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E6%B3%95%E6%9C%AF.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E6%B3%95%E6%9C%AF.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E6%B3%95%E6%9C%AF.json"
+            ],
+            "path": "deck/RE/classic/法术.json",
+            "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "游戏王卡制作",
             "version": "1",
             "version_code": 1,
@@ -973,6 +1053,22 @@
             ],
             "path": "deck/akashic4869/classic/炉石传说-经典卡包-概率重构.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "物品",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E7%89%A9%E5%93%81.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E7%89%A9%E5%93%81.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E7%89%A9%E5%93%81.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E7%89%A9%E5%93%81.json"
+            ],
+            "path": "deck/RE/classic/物品.json",
+            "author": "RE",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -1073,6 +1169,22 @@
             "sub_type": "classic"
         },
         {
+            "name": "神术",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E7%A5%9E%E6%9C%AF.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E7%A5%9E%E6%9C%AF.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E7%A5%9E%E6%9C%AF.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E7%A5%9E%E6%9C%AF.json"
+            ],
+            "path": "deck/RE/classic/神术.json",
+            "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "算个数",
             "version": "1",
             "version_code": 1,
@@ -1133,6 +1245,22 @@
             ],
             "path": "deck/HsiangNianian/classic/老婆生成器.json",
             "author": "简律纯",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "职业种族",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E8%81%8C%E4%B8%9A%E7%A7%8D%E6%97%8F.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E8%81%8C%E4%B8%9A%E7%A7%8D%E6%97%8F.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E8%81%8C%E4%B8%9A%E7%A7%8D%E6%97%8F.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E8%81%8C%E4%B8%9A%E7%A7%8D%E6%97%8F.json"
+            ],
+            "path": "deck/RE/classic/职业种族.json",
+            "author": "RE",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -1249,6 +1377,38 @@
             "sub_type": "classic"
         },
         {
+            "name": "花亦山",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E8%8A%B1%E4%BA%A6%E5%B1%B1.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E8%8A%B1%E4%BA%A6%E5%B1%B1.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E8%8A%B1%E4%BA%A6%E5%B1%B1.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E8%8A%B1%E4%BA%A6%E5%B1%B1.json"
+            ],
+            "path": "deck/RE/classic/花亦山.json",
+            "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "装备",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E8%A3%85%E5%A4%87.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E8%A3%85%E5%A4%87.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E8%A3%85%E5%A4%87.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E8%A3%85%E5%A4%87.json"
+            ],
+            "path": "deck/RE/classic/装备.json",
+            "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "西幻人设生成",
             "version": "1",
             "version_code": 1,
@@ -1313,6 +1473,22 @@
             "sub_type": "classic"
         },
         {
+            "name": "金庸",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E9%87%91%E5%BA%B8.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E9%87%91%E5%BA%B8.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E9%87%91%E5%BA%B8.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E9%87%91%E5%BA%B8.json"
+            ],
+            "path": "deck/RE/classic/金庸.json",
+            "author": "RE",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "阳炎计划",
             "version": "1",
             "version_code": 1,
@@ -1341,6 +1517,22 @@
             ],
             "path": "deck/akashic4869/classic/阴阳师十连抽(格式更新).json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "骑士1",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E9%AA%91%E5%A3%AB1.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E9%AA%91%E5%A3%AB1.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E9%AA%91%E5%A3%AB1.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E9%AA%91%E5%A3%AB1.json"
+            ],
+            "path": "deck/RE/classic/骑士1.json",
+            "author": "RE",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -1389,6 +1581,22 @@
             ],
             "path": "deck/akashic4869/classic/骰喵事件二-叛逆的鲁智深.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "高达基础版本",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E9%AB%98%E8%BE%BE%E5%9F%BA%E7%A1%80%E7%89%88%E6%9C%AC.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E9%AB%98%E8%BE%BE%E5%9F%BA%E7%A1%80%E7%89%88%E6%9C%AC.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E9%AB%98%E8%BE%BE%E5%9F%BA%E7%A1%80%E7%89%88%E6%9C%AC.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E9%AB%98%E8%BE%BE%E5%9F%BA%E7%A1%80%E7%89%88%E6%9C%AC.json"
+            ],
+            "path": "deck/RE/classic/高达基础版本.json",
+            "author": "RE",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -1469,6 +1677,22 @@
             ],
             "path": "deck/akashic4869/classic/麻将对局.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "黎明事记",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/RE/classic/%E9%BB%8E%E6%98%8E%E4%BA%8B%E8%AE%B0.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/RE/classic/%E9%BB%8E%E6%98%8E%E4%BA%8B%E8%AE%B0.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/RE/classic/%E9%BB%8E%E6%98%8E%E4%BA%8B%E8%AE%B0.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/RE/classic/%E9%BB%8E%E6%98%8E%E4%BA%8B%E8%AE%B0.json"
+            ],
+            "path": "deck/RE/classic/黎明事记.json",
+            "author": "RE",
             "type": "deck",
             "sub_type": "classic"
         },
