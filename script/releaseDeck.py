@@ -43,8 +43,9 @@ if __name__ == '__main__':
                         'version_code': meta_info_data.get(deck_name_this, {}).get('version_code', 1),
                         'desc': meta_info_data.get(deck_name_this, {}).get('desc', ''),
                         'download_link': [
+                            f'https://api.oliva.icu/extiverse/{deck_url_path_this}',
                             f'https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/{deck_url_path_this}',
-                            f'https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/{deck_url_path_this}'
+                            f'https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/{deck_url_path_this}',
                             f'https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/{deck_url_path_this}',
                         ],
                         'path': file_dir_path_real + deck_name_this,
