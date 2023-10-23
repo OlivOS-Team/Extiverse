@@ -1137,6 +1137,118 @@
             "sub_type": "classic"
         },
         {
+            "name": "艾尔登法环",
+            "version": "1",
+            "version_code": 1,
+            "desc": "包含艾尔登法环中的武器、防具、道具、饰品、法术、战灰。全部文案来自艾尔登法环游戏数据解包，版权归FromSoftware所有。",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/艾尔登法环.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "艾尔登法环-法环战灰",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%88%98%E7%81%B0.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%88%98%E7%81%B0.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%88%98%E7%81%B0.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%88%98%E7%81%B0.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/艾尔登法环-法环战灰.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "艾尔登法环-法环武器",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%AD%A6%E5%99%A8.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%AD%A6%E5%99%A8.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%AD%A6%E5%99%A8.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%AD%A6%E5%99%A8.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/艾尔登法环-法环武器.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "艾尔登法环-法环法术",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%B3%95%E6%9C%AF.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%B3%95%E6%9C%AF.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%B3%95%E6%9C%AF.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E6%B3%95%E6%9C%AF.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/艾尔登法环-法环法术.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "艾尔登法环-法环道具",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%81%93%E5%85%B7.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%81%93%E5%85%B7.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%81%93%E5%85%B7.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%81%93%E5%85%B7.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/艾尔登法环-法环道具.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "艾尔登法环-法环防具",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%98%B2%E5%85%B7.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%98%B2%E5%85%B7.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%98%B2%E5%85%B7.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%98%B2%E5%85%B7.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/艾尔登法环-法环防具.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "艾尔登法环-法环饰品",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%A5%B0%E5%93%81.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%A5%B0%E5%93%81.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%A5%B0%E5%93%81.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%B3%95%E7%8E%AF%E9%A5%B0%E5%93%81.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/艾尔登法环-法环饰品.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "西幻人设生成",
             "version": "1",
             "version_code": 1,
