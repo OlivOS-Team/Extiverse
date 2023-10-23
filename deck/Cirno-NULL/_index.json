@@ -1,0 +1,37 @@
+{
+    "道德经.json": {
+        "name": "道德经",
+        "version": "20201030",
+        "version_code": 1,
+        "desc": "道德经牌堆，资料来源于网络；抽出来的是八十一章中的一章；部分章节超过80字，还请注意；关键词：道德经",
+        "author": "Cirno-NULL"
+    },
+    "随机团.json": {
+        "name": "随机团",
+        "version": "20201028",
+        "version_code": 1,
+        "desc": "随机团，或许可以提供一些口胡灵感；关键词：随机团；在不删除著名的前提下允许二改",
+        "author": "Cirno-NULL"
+    },
+    "孙子兵法.json": {
+        "name": "孙子兵法",
+        "version": "20210105",
+        "version_code": 1,
+        "desc": "孙子兵法，资料来源于网络；抽取的是每一章里的一段话；关键词：孙子兵法",
+        "author": "Cirno-NULL"
+    },
+    "唐诗三百首.json": {
+        "name": "唐诗三百首",
+        "version": "20201031",
+        "version_code": 1,
+        "desc": "唐诗三百首，资料来源于网络；部分诗文超过300字，还请注意；关键词：唐诗三百首",
+        "author": "Cirno-NULL"
+    },
+    "无尽的进度条.json": {
+        "name": "无尽的进度条",
+        "version": "20210111",
+        "version_code": 1,
+        "desc": "无尽的进度条，文字来源于游戏解包；用于一些随机事件；关键词：无尽的进度条",
+        "author": "Cirno-NULL"
+    }
+}
