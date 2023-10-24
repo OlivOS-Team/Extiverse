@@ -2193,6 +2193,23 @@
             "sub_type": "classic"
         }
     ],
-    "yaml": [],
+    "yaml": [
+        {
+            "name": "Arknights",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/yaml/Arknights",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/yaml/Arknights",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/yaml/Arknights",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/yaml/Arknights"
+            ],
+            "path": "deck/lunzhiPenxil/yaml/Arknights",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "yaml"
+        }
+    ],
     "excel": []
 }
