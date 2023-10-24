@@ -1073,6 +1073,38 @@
             "sub_type": "classic"
         },
         {
+            "name": "浓情蜜意的时节",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/AmberKeter/classic/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/AmberKeter/classic/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/AmberKeter/classic/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/AmberKeter/classic/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82.json"
+            ],
+            "path": "deck/AmberKeter/classic/浓情蜜意的时节.json",
+            "author": "AmberKeter",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "浓情蜜意的时节-带图版",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://api.oliva.icu/extiverse/deck/AmberKeter/classic/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82-%E5%B8%A6%E5%9B%BE%E7%89%88.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/AmberKeter/classic/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82-%E5%B8%A6%E5%9B%BE%E7%89%88.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/AmberKeter/classic/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82-%E5%B8%A6%E5%9B%BE%E7%89%88.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/AmberKeter/classic/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82-%E5%B8%A6%E5%9B%BE%E7%89%88.json"
+            ],
+            "path": "deck/AmberKeter/classic/浓情蜜意的时节-带图版.json",
+            "author": "AmberKeter",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "游戏王卡制作",
             "version": "1",
             "version_code": 1,
