@@ -1,7 +1,16 @@
 import json
+import yaml
 import os
 import shutil
 from urllib import parse
+import codecs
+
+
+def formatUTF8WithBOM(data:bytes):
+    res = data
+    if res[:3] == codecs.BOM_UTF8:
+        res = res[3:]
+    return res
 
 if __name__ == '__main__':
     index_data = {}
@@ -33,6 +42,7 @@ if __name__ == '__main__':
                     if deck_name_meta_this in deck_name_list:
                         deck_name_list.pop(deck_name_list.index(deck_name_meta_this))
                 for deck_name_this in deck_name_list:
+                    file_deck_info_path = f'../deck/{deck_user_this}/{deck_type}/{deck_name_this}'
                     deck_name = deck_name_this
                     if 'classic' == deck_type:
                         if deck_name.endswith('.json'):
@@ -50,9 +60,6 @@ if __name__ == '__main__':
                     deck_url_path_this = file_dir_path_real + parse.quote(deck_name_this)
                     info_this = {
                         'name': meta_info_data.get(deck_name_this, {}).get('name', deck_name),
-                        'version': meta_info_data.get(deck_name_this, {}).get('version', '1'),
-                        'version_code': meta_info_data.get(deck_name_this, {}).get('version_code', 1),
-                        'desc': meta_info_data.get(deck_name_this, {}).get('desc', ''),
                         'download_link': [
                             f'https://api.oliva.icu/extiverse/{deck_url_path_this}',
                             f'https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/{deck_url_path_this}',
@@ -64,7 +71,37 @@ if __name__ == '__main__':
                         'type': 'deck',
                         'sub_type': deck_type
                     }
-                    index_data[deck_type].append(info_this)
+                    if 'yaml' == deck_type:
+                        pass
+                        try:
+                            with open(file_deck_info_path, 'rb') as customDeckPath_f:
+                                obj_Deck_this = yaml.load(
+                                    formatUTF8WithBOM(customDeckPath_f.read()).decode('utf-8'),
+                                    Loader = yaml.FullLoader
+                                )
+                            if type(obj_Deck_this) is dict:
+                                if 'author' in obj_Deck_this:
+                                    info_this['author'] = str(obj_Deck_this['author'])
+                                if 'version' in obj_Deck_this:
+                                    info_this['version'] = str(obj_Deck_this['version'])
+                                    try:
+                                        info_this['version_code'] = int(obj_Deck_this['version'])
+                                    except:
+                                        pass
+                                if 'desc' in obj_Deck_this:
+                                    info_this['desc'] = str(obj_Deck_this['desc'])
+                        except:
+                            pass
+                    info_this.setdefault('desc', meta_info_data.get(deck_name_this, {}).get('desc', ''))
+                    info_this.setdefault('version', meta_info_data.get(deck_name_this, {}).get('version', '1'))
+                    info_this.setdefault('version_code', meta_info_data.get(deck_name_this, {}).get('version_code', 1))
+
+                    info_this_new = {}
+                    for info_this_key in ['name', 'version', 'version_code', 'desc', 'download_link', 'path', 'author', 'type', 'sub_type']:
+                        if info_this_key in info_this:
+                            info_this_new[info_this_key] = info_this[info_this_key]
+                    info_this_new.update(info_this)
+                    index_data[deck_type].append(info_this_new)
             index_data[deck_type].sort(key=lambda x: x['name'])
     os.makedirs('../target/deck/', exist_ok=True)
     with open('../target/deck/index.json', 'w', encoding='utf-8') as f:
