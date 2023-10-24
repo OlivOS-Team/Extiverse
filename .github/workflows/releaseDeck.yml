@@ -21,6 +21,7 @@ jobs:
         run: |
           cd ./script/
           python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
           python releaseDeck.py
           cd ..
       - name: Upload
