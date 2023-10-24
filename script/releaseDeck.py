@@ -12,7 +12,9 @@ if __name__ == '__main__':
             deck_user_list.pop(deck_user_list.index(deck_meta_list_this))
     for deck_user_this in deck_user_list:
         for deck_type in [
-            'classic'
+            'classic',
+            'yaml',
+            'excel'
         ]:
             index_data.setdefault(deck_type, [])
             meta_info_data = None
@@ -32,10 +34,19 @@ if __name__ == '__main__':
                         deck_name_list.pop(deck_name_list.index(deck_name_meta_this))
                 for deck_name_this in deck_name_list:
                     deck_name = deck_name_this
-                    if deck_name.endswith('.json'):
-                        deck_name = deck_name.rstrip('.json')
-                    elif deck_name.endswith('.json5'):
-                        deck_name = deck_name.rstrip('.json5')
+                    if 'classic' == deck_type:
+                        if deck_name.endswith('.json'):
+                            deck_name = deck_name.rstrip('.json')
+                        elif deck_name.endswith('.json5'):
+                            deck_name = deck_name.rstrip('.json5')
+                    elif 'yaml' == deck_type:
+                        if deck_name.endswith('.yaml'):
+                            deck_name = deck_name.rstrip('.yaml')
+                    elif 'excel' == deck_type:
+                        if deck_name.endswith('.xlsx'):
+                            deck_name = deck_name.rstrip('.xlsx')
+                        elif deck_name.endswith('.xls'):
+                            deck_name = deck_name.rstrip('.xls')
                     deck_url_path_this = file_dir_path_real + parse.quote(deck_name_this)
                     info_this = {
                         'name': meta_info_data.get(deck_name_this, {}).get('name', deck_name),
