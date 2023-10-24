@@ -2196,9 +2196,9 @@
     "yaml": [
         {
             "name": "Arknights",
-            "version": "1",
-            "version_code": 1,
-            "desc": "",
+            "version": "201111",
+            "version_code": 201111,
+            "desc": "明日方舟干员寻访",
             "download_link": [
                 "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/yaml/Arknights",
                 "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/yaml/Arknights",
@@ -2206,7 +2206,7 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/yaml/Arknights"
             ],
             "path": "deck/lunzhiPenxil/yaml/Arknights",
-            "author": "lunzhiPenxil",
+            "author": "仑质",
             "type": "deck",
             "sub_type": "yaml"
         }
