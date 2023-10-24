@@ -2192,5 +2192,7 @@
             "type": "deck",
             "sub_type": "classic"
         }
-    ]
+    ],
+    "yaml": [],
+    "excel": []
 }
