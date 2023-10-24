@@ -5,5 +5,19 @@
         "version_code": 1,
         "desc": "CDDA变异抽取，包含0.E版本的所有变异（含官方自带的MOD内容）",
         "author": "AmberKeter"
+    },
+    "浓情蜜意的时节-带图版.json": {
+        "name": "浓情蜜意的时节-带图版",
+        "version": "1",
+        "version_code": 1,
+        "desc": "",
+        "author": "AmberKeter"
+    },
+    "浓情蜜意的时节.json": {
+        "name": "浓情蜜意的时节",
+        "version": "1",
+        "version_code": 1,
+        "desc": "",
+        "author": "AmberKeter"
     }
 }
