@@ -61,6 +61,7 @@ if __name__ == '__main__':
                     info_this = {
                         'name': meta_info_data.get(deck_name_this, {}).get('name', deck_name),
                         'download_link': [
+                            f'https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/{deck_url_path_this}',
                             f'https://api.oliva.icu/extiverse/{deck_url_path_this}',
                             f'https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/{deck_url_path_this}',
                             f'https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/{deck_url_path_this}',
