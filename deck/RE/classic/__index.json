@@ -1,0 +1,22 @@
+{
+    "高达基础版本.json": {
+        "resource": [
+            "高达基础版本.zip"
+        ]
+    },
+    "平安京.json": {
+        "resource": [
+            "决战！平安京.zip"
+        ]
+    },
+    "骑士1.json": {
+        "resource": [
+            "骑士1.zip"
+        ]
+    },
+    "奥特曼.json": {
+        "resource": [
+            "aoteman.zip"
+        ]
+    }
+}
