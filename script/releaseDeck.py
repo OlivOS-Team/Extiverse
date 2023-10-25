@@ -70,7 +70,11 @@ if __name__ == '__main__':
                         'path': file_dir_path_real + deck_name_this,
                         'author': meta_info_data.get(deck_name_this, {}).get('author', deck_user_this),
                         'type': 'deck',
-                        'sub_type': deck_type
+                        'sub_type': deck_type,
+                        'resource_link': [
+                            parse.quote(f'https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/{deck_user_this}/resource/{deck_resource_this}')
+                            for deck_resource_this in meta_info_data.get(deck_name_this, {}).get('resource', [])
+                        ]
                     }
                     if 'yaml' == deck_type:
                         pass
