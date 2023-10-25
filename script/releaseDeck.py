@@ -72,7 +72,7 @@ if __name__ == '__main__':
                         'type': 'deck',
                         'sub_type': deck_type,
                         'resource_link': [
-                            parse.quote(f'https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/{deck_user_this}/resource/{deck_resource_this}')
+                            f'https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/{deck_user_this}/resource/' + parse.quote(deck_resource_this)
                             for deck_resource_this in meta_info_data.get(deck_name_this, {}).get('resource', [])
                         ]
                     }
