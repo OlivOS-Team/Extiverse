@@ -1,0 +1,25 @@
+name: uploadDeckResourceCos
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      PACK_NAME: ""
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11.0
+          cache: pip
+          architecture: x64
+      - name: Run
+        run: |
+          cd ./script/
+          python -m pip install --upgrade pip
+          python -m pip install -U cos-python-sdk-v5
+          python uploadDeckResourceCos.py ${{ secrets.EXTIVERSECOSSECRETID }} ${{ secrets.EXTIVERSECOSSECRETKEY }}
