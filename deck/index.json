@@ -121,9 +121,9 @@
         },
         {
             "name": "Eternal唱歌检测",
-            "version": "1",
+            "version": "0.5.1",
             "version_code": 1,
-            "desc": "",
+            "desc": "在不删除著名的前提下允许二改。并且一定要保留唱《W》时不触发W抓捕的结果,视频借于up主天琅焰的翻译视频。",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/ErraAkira/classic/Eternal%E5%94%B1%E6%AD%8C%E6%A3%80%E6%B5%8B.json",
                 "https://api.oliva.icu/extiverse/deck/ErraAkira/classic/Eternal%E5%94%B1%E6%AD%8C%E6%A3%80%E6%B5%8B.json",
@@ -132,7 +132,7 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/ErraAkira/classic/Eternal%E5%94%B1%E6%AD%8C%E6%A3%80%E6%B5%8B.json"
             ],
             "path": "deck/ErraAkira/classic/Eternal唱歌检测.json",
-            "author": "ErraAkira",
+            "author": "ErraAkira（Github用户名）",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -167,40 +167,6 @@
             ],
             "path": "deck/lunzhiPenxil/classic/UNO-UNO合集.json",
             "author": "lunzhiPenxil",
-            "type": "deck",
-            "sub_type": "classic"
-        },
-        {
-            "name": "_index",
-            "version": "1",
-            "version_code": 1,
-            "desc": "",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/ErraAkira/classic/_index.json",
-                "https://api.oliva.icu/extiverse/deck/ErraAkira/classic/_index.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/ErraAkira/classic/_index.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/ErraAkira/classic/_index.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/ErraAkira/classic/_index.json"
-            ],
-            "path": "deck/ErraAkira/classic/_index.json",
-            "author": "ErraAkira",
-            "type": "deck",
-            "sub_type": "classic"
-        },
-        {
-            "name": "_index",
-            "version": "1",
-            "version_code": 1,
-            "desc": "",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/Cirno-NULL/classic/_index.json",
-                "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/_index.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/Cirno-NULL/classic/_index.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/Cirno-NULL/classic/_index.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/Cirno-NULL/classic/_index.json"
-            ],
-            "path": "deck/Cirno-NULL/classic/_index.json",
-            "author": "Cirno-NULL",
             "type": "deck",
             "sub_type": "classic"
         },
@@ -495,9 +461,9 @@
         },
         {
             "name": "唐诗三百首",
-            "version": "1",
+            "version": "20201031",
             "version_code": 1,
-            "desc": "",
+            "desc": "唐诗三百首，资料来源于网络；部分诗文超过300字，还请注意；关键词：唐诗三百首",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/Cirno-NULL/classic/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
                 "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
@@ -614,9 +580,9 @@
         },
         {
             "name": "孙子兵法",
-            "version": "1",
+            "version": "20210105",
             "version_code": 1,
-            "desc": "",
+            "desc": "孙子兵法，资料来源于网络；抽取的是每一章里的一段话；关键词：孙子兵法",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/Cirno-NULL/classic/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95.json",
                 "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95.json",
@@ -937,9 +903,9 @@
         },
         {
             "name": "无尽的进度条",
-            "version": "1",
-            "version_code": 1,
-            "desc": "",
+            "version": "20210111",
+            "version_code": 2,
+            "desc": "无尽的进度条，文字来源于游戏解包；用于一些随机事件；关键词：无尽的进度条",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/Cirno-NULL/classic/%E6%97%A0%E5%B0%BD%E7%9A%84%E8%BF%9B%E5%BA%A6%E6%9D%A1.json",
                 "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E6%97%A0%E5%B0%BD%E7%9A%84%E8%BF%9B%E5%BA%A6%E6%9D%A1.json",
@@ -1668,9 +1634,9 @@
         },
         {
             "name": "道德经",
-            "version": "1",
+            "version": "20201030",
             "version_code": 1,
-            "desc": "",
+            "desc": "道德经牌堆，资料来源于网络；抽出来的是八十一章中的一章；部分章节超过80字，还请注意；关键词：道德经",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/Cirno-NULL/classic/%E9%81%93%E5%BE%B7%E7%BB%8F.json",
                 "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E9%81%93%E5%BE%B7%E7%BB%8F.json",
@@ -1753,9 +1719,9 @@
         },
         {
             "name": "随机团",
-            "version": "1",
+            "version": "20201028",
             "version_code": 1,
-            "desc": "",
+            "desc": "随机团，或许可以提供一些口胡灵感；关键词：随机团；在不删除著名的前提下允许二改",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/Cirno-NULL/classic/%E9%9A%8F%E6%9C%BA%E5%9B%A2.json",
                 "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/%E9%9A%8F%E6%9C%BA%E5%9B%A2.json",
@@ -1787,9 +1753,9 @@
         },
         {
             "name": "骑士运势",
-            "version": "1",
+            "version": "0.5.1",
             "version_code": 1,
-            "desc": "",
+            "desc": "在不删除著名的前提下允许二改。增加更多骑士梗运势",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/ErraAkira/classic/%E9%AA%91%E5%A3%AB%E8%BF%90%E5%8A%BF.json",
                 "https://api.oliva.icu/extiverse/deck/ErraAkira/classic/%E9%AA%91%E5%A3%AB%E8%BF%90%E5%8A%BF.json",
@@ -1798,7 +1764,7 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/ErraAkira/classic/%E9%AA%91%E5%A3%AB%E8%BF%90%E5%8A%BF.json"
             ],
             "path": "deck/ErraAkira/classic/骑士运势.json",
-            "author": "ErraAkira",
+            "author": "ErraAkira（Github用户名）",
             "type": "deck",
             "sub_type": "classic"
         },
