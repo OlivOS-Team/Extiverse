@@ -171,6 +171,40 @@
             "sub_type": "classic"
         },
         {
+            "name": "_index",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/ErraAkira/classic/_index.json",
+                "https://api.oliva.icu/extiverse/deck/ErraAkira/classic/_index.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/ErraAkira/classic/_index.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/ErraAkira/classic/_index.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/ErraAkira/classic/_index.json"
+            ],
+            "path": "deck/ErraAkira/classic/_index.json",
+            "author": "ErraAkira",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
+            "name": "_index",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/Cirno-NULL/classic/_index.json",
+                "https://api.oliva.icu/extiverse/deck/Cirno-NULL/classic/_index.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/Cirno-NULL/classic/_index.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/Cirno-NULL/classic/_index.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/Cirno-NULL/classic/_index.json"
+            ],
+            "path": "deck/Cirno-NULL/classic/_index.json",
+            "author": "Cirno-NULL",
+            "type": "deck",
+            "sub_type": "classic"
+        },
+        {
             "name": "coc阵营",
             "version": "1",
             "version_code": 1,
