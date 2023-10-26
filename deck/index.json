@@ -1379,7 +1379,7 @@
             "resource_link": []
         },
         {
-            "name": "百大Up主",
+            "name": "百大Up主-百大",
             "version": "1",
             "version_code": 1,
             "desc": "bilibili百大UP主",
@@ -1400,7 +1400,7 @@
             "name": "百大Up主-百大（带图版）",
             "version": "1",
             "version_code": 1,
-            "desc": "",
+            "desc": "bilibili百大UP主",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E7%99%BE%E5%A4%A7Up%E4%B8%BB-%E7%99%BE%E5%A4%A7%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
                 "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E7%99%BE%E5%A4%A7Up%E4%B8%BB-%E7%99%BE%E5%A4%A7%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
@@ -1412,7 +1412,9 @@
             "author": "lunzhiPenxil",
             "type": "deck",
             "sub_type": "classic",
-            "resource_link": []
+            "resource_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E7%99%BE%E5%A4%A7Up%E4%B8%BB-%E7%99%BE%E5%A4%A7%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85.zip"
+            ]
         },
         {
             "name": "祝由科-元册-拒绝封建迷信",
