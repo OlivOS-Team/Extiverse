@@ -66,4 +66,4 @@ if __name__ == '__main__':
     res = file_name('../deck/')
     for res_this in res:
         print(res_this)
-        upload(os.path.join('..', 'deck', res_this), os.path.join('deck', res_this).replace('\\', '/'))
+        #upload(os.path.join('..', 'deck', res_this), os.path.join('deck', res_this).replace('\\', '/'))
