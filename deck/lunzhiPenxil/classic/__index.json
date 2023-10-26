@@ -90,6 +90,16 @@
         "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
         "author": "lunzhiPenxil"
     },
+    "密教模拟器-司辰（带图版）.json": {
+        "name": "密教模拟器-司辰（带图版）",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中司辰，且带有配图。",
+        "author": "lunzhiPenxil",
+        "resource": [
+            "密教模拟器-司辰（带图版）图包.zip"
+        ]
+    },
     "密教模拟器-密教-合集最终版.json": {
         "name": "密教模拟器-合集最终版",
         "version": "1",
