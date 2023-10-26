@@ -6,6 +6,8 @@ import sys
 import logging
 import requests as req
 import os
+import hashlib
+import json
 
 g_secret_id = ''
 g_secret_key = ''
@@ -16,6 +18,14 @@ if len(sys.argv) >= 2:
     g_secret_id = sys.argv[1]
 if len(sys.argv) >= 3:
     g_secret_key = sys.argv[2]
+
+def checkFileMD5(filePath):
+    res = None
+    if os.path.exists(filePath):
+        with open(filePath, 'rb') as fp:
+            fObj = fp.read()
+            res = hashlib.md5(fObj).hexdigest()
+    return res
 
 def GETHttpFile(url, path):
     res = False
@@ -63,7 +73,22 @@ def file_name(file_dir):
     return res
 
 if __name__ == '__main__':
+    md5_dict = None
     res = file_name('../deck/')
+    if os.path.exists('deck_md5.json'):
+        with open('deck_md5.json', 'r', encoding='utf-8') as f:
+            try:
+                md5_dict = json.loads(f.read())
+            except:
+                pass
+    if md5_dict is None:
+        md5_dict = {}
     for res_this in res:
-        print(res_this)
-        #upload(os.path.join('..', 'deck', res_this), os.path.join('deck', res_this).replace('\\', '/'))
+        res_md5_this = checkFileMD5(os.path.join('..', 'deck', res_this))
+        res_md5_this_old = md5_dict.get(res_this, None)
+        if res_md5_this_old != res_md5_this:
+            print('File Change : %s : %s -> %s' % (res_this, res_md5_this_old, res_md5_this))
+            #upload(os.path.join('..', 'deck', res_this), os.path.join('deck', res_this).replace('\\', '/'))
+        md5_dict[res_this] = res_md5_this
+    with open('deck_md5.json', 'w', encoding='utf-8') as f:
+        f.write(json.dumps(md5_dict, indent=4, ensure_ascii=False))
