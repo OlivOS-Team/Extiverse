@@ -2051,84 +2051,6 @@
             "resource_link": []
         },
         {
-            "name": "黑暗之魂",
-            "version": "1",
-            "version_code": 1,
-            "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
-                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json"
-            ],
-            "path": "deck/lunzhiPenxil/classic/黑暗之魂-黑魂合集（带图版）.json",
-            "author": "lunzhiPenxil",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P1.zip",
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P2.zip",
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P3.zip",
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P4.zip",
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P5.zip"
-            ]
-        },
-        {
-            "name": "黑暗之魂",
-            "version": "1",
-            "version_code": 1,
-            "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json",
-                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json"
-            ],
-            "path": "deck/lunzhiPenxil/classic/黑暗之魂-黑魂合集.json",
-            "author": "lunzhiPenxil",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
-            "name": "黑暗之魂-黑魂-合集扩充版",
-            "version": "1",
-            "version_code": 1,
-            "desc": "",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%89%A9%E5%85%85%E7%89%88.json",
-                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%89%A9%E5%85%85%E7%89%88.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%89%A9%E5%85%85%E7%89%88.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%89%A9%E5%85%85%E7%89%88.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%89%A9%E5%85%85%E7%89%88.json"
-            ],
-            "path": "deck/lunzhiPenxil/classic/黑暗之魂-黑魂-合集扩充版.json",
-            "author": "lunzhiPenxil",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
-            "name": "黑暗之魂-黑魂-合集最终版",
-            "version": "1",
-            "version_code": 1,
-            "desc": "",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json",
-                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json"
-            ],
-            "path": "deck/lunzhiPenxil/classic/黑暗之魂-黑魂-合集最终版.json",
-            "author": "lunzhiPenxil",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
             "name": "黑暗之魂-黑魂一合集",
             "version": "1",
             "version_code": 1,
@@ -2433,6 +2355,48 @@
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
+        },
+        {
+            "name": "黑暗之魂-黑魂合集",
+            "version": "1",
+            "version_code": 1,
+            "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json",
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/黑暗之魂-黑魂合集.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "黑暗之魂-黑魂合集（带图版）",
+            "version": "1",
+            "version_code": 1,
+            "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/黑暗之魂-黑魂合集（带图版）.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P1.zip",
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P2.zip",
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P3.zip",
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P4.zip",
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E9%BB%91%E6%9A%97%E4%B9%8B%E9%AD%82-%E9%BB%91%E9%AD%82%E5%90%88%E9%9B%86%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85P5.zip"
+            ]
         },
         {
             "name": "黑暗之魂-黑魂地点",
