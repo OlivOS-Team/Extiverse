@@ -44,7 +44,7 @@ jobs:
         with:
           add: '.'
           author_name: Github CI
-          message: 'release deck index.json'
+          message: '[Bot] 刷新源数据'
           push: true
           # remove: './deck/index.json'
           # tag_push: '--force'
