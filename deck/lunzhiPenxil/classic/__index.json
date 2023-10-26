@@ -42,11 +42,21 @@
         "author": "lunzhiPenxil"
     },
     "百大Up主-百大.json": {
-        "name": "百大Up主",
+        "name": "百大Up主-百大",
         "version": "1",
         "version_code": 1,
         "desc": "bilibili百大UP主",
         "author": "lunzhiPenxil"
+    },
+    "百大Up主-百大（带图版）.json": {
+        "name": "百大Up主-百大（带图版）",
+        "version": "1",
+        "version_code": 1,
+        "desc": "bilibili百大UP主",
+        "author": "lunzhiPenxil",
+        "resource": [
+            "百大Up主-百大（带图版）图包.zip"
+        ]
     },
     "动物森友会-动森(鱼类-虫子-花卉).json": {
         "name": "动物森友会",
