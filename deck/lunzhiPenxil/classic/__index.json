@@ -69,6 +69,16 @@
         "desc": "包含艾尔登法环中的武器、防具、道具、饰品、法术、战灰。全部文案来自艾尔登法环游戏数据解包，版权归FromSoftware所有。",
         "author": "lunzhiPenxil"
     },
+    "黑暗之魂-黑魂合集（带图版）.json": {
+        "name": "黑暗之魂",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
+        "author": "lunzhiPenxil",
+        "resource": [
+            "黑暗之魂-黑魂合集（带图版）图包.zip"
+        ]
+    },
     "黑暗之魂-黑魂合集.json": {
         "name": "黑暗之魂",
         "version": "1",
