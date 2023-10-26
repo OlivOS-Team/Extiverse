@@ -1,5 +1,5 @@
 {
-    "index.json": "7279315c0e019887fb0d1d063ba42581",
+    "index.json": "8b798dff04f6543e916e6854138d1103",
     "lunzhiPenxil/classic/明日方舟-Arknights(单抽-十连).json": "a57849f8802a477363dcc9f85ca005e7",
     "lunzhiPenxil/classic/毒鸡汤-NOWS.json": "d69c86420ffa04d42841fc2e40750899",
     "lunzhiPenxil/classic/黑暗之魂-黑魂合集（带图版）.json": "1dbf4bd5e8766b3784c665c2472c6824",
@@ -10,7 +10,7 @@
     "lunzhiPenxil/classic/魔都模组卡片-CNMODSC.json": "0f0e84544726315967584b6602db6c22",
     "lunzhiPenxil/classic/黑暗之魂-黑魂一武器.json": "807e74f23675bab48a892f56dd864ed2",
     "lunzhiPenxil/classic/黑暗之魂-黑魂三武器.json": "ea3099f78c07c75c3e1c4230f5b6117a",
-    "lunzhiPenxil/classic/__index.json": "6e92bb13526b8b2594f07b4ddee93a3a",
+    "lunzhiPenxil/classic/__index.json": "eb23daa36279ab2eb62cfc347a192e0b",
     "lunzhiPenxil/classic/艾尔登法环-法环法术.json": "79bc64ca5185c5f3369a8c94aa06c18f",
     "lunzhiPenxil/classic/密教模拟器-密教合集.json": "831ad4ecab760f22de14ff518f7413e4",
     "lunzhiPenxil/classic/密教模拟器-密教司辰.json": "0bc73ca1c668e6100e1b18b1c93f41b4",
@@ -158,5 +158,7 @@
     "Cirno-NULL/classic/无尽的进度条.json": "97cade5c739f107911bb4dd39ea73b9c",
     "Cirno-NULL/classic/唐诗三百首.json": "db137c90661f5d04f4d7dc47162eef92",
     "Cirno-NULL/classic/孙子兵法.json": "fa44d1ea24852b5ff7134c3d15794f93",
-    "Cirno-NULL/classic/随机团.json": "b9ec0832c25fd2aa6a31332a7d0400e4"
+    "Cirno-NULL/classic/随机团.json": "b9ec0832c25fd2aa6a31332a7d0400e4",
+    "lunzhiPenxil/classic/密教模拟器-司辰（带图版）.json": "5c06efab760c5f6b4e66e16d4bd9c496",
+    "lunzhiPenxil/resource/密教模拟器-司辰（带图版）图包.zip": "b1387ab7827afe715a49cd58c98aae65"
 }
