@@ -671,6 +671,26 @@
             "resource_link": []
         },
         {
+            "name": "密教模拟器-司辰（带图版）",
+            "version": "1",
+            "version_code": 1,
+            "desc": "包含密教模拟器中司辰，且带有配图。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%8F%B8%E8%BE%B0%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%8F%B8%E8%BE%B0%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%8F%B8%E8%BE%B0%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%8F%B8%E8%BE%B0%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%8F%B8%E8%BE%B0%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/密教模拟器-司辰（带图版）.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/resource/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%8F%B8%E8%BE%B0%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%88%EF%BC%89%E5%9B%BE%E5%8C%85.zip"
+            ]
+        },
+        {
             "name": "密教模拟器-合集",
             "version": "1",
             "version_code": 1,
