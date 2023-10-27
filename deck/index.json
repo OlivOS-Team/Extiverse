@@ -1143,6 +1143,24 @@
             "resource_link": []
         },
         {
+            "name": "微软更新",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/MetaLeo/classic/%E5%BE%AE%E8%BD%AF%E6%9B%B4%E6%96%B0.json",
+                "https://api.oliva.icu/extiverse/deck/MetaLeo/classic/%E5%BE%AE%E8%BD%AF%E6%9B%B4%E6%96%B0.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/MetaLeo/classic/%E5%BE%AE%E8%BD%AF%E6%9B%B4%E6%96%B0.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/MetaLeo/classic/%E5%BE%AE%E8%BD%AF%E6%9B%B4%E6%96%B0.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/MetaLeo/classic/%E5%BE%AE%E8%BD%AF%E6%9B%B4%E6%96%B0.json"
+            ],
+            "path": "deck/MetaLeo/classic/微软更新.json",
+            "author": "MetaLeo",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "怪物弹珠图鉴抽取",
             "version": "1",
             "version_code": 1,
