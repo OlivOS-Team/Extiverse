@@ -1213,24 +1213,6 @@
             "resource_link": []
         },
         {
-            "name": "对角巷(1)",
-            "version": "1",
-            "version_code": 1,
-            "desc": "",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E6%98%93%E4%B9%85/classic/%E5%AF%B9%E8%A7%92%E5%B7%B7%281%29.json",
-                "https://api.oliva.icu/extiverse/deck/%E6%98%93%E4%B9%85/classic/%E5%AF%B9%E8%A7%92%E5%B7%B7%281%29.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E6%98%93%E4%B9%85/classic/%E5%AF%B9%E8%A7%92%E5%B7%B7%281%29.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E6%98%93%E4%B9%85/classic/%E5%AF%B9%E8%A7%92%E5%B7%B7%281%29.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E6%98%93%E4%B9%85/classic/%E5%AF%B9%E8%A7%92%E5%B7%B7%281%29.json"
-            ],
-            "path": "deck/易久/classic/对角巷(1).json",
-            "author": "易久",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
             "name": "山海经-于言诺",
             "version": "1",
             "version_code": 1,
@@ -2529,24 +2511,6 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E6%98%93%E4%B9%85/classic/%E8%AF%A1%E7%A7%98%E5%A8%83%E5%A8%83.json"
             ],
             "path": "deck/易久/classic/诡秘娃娃.json",
-            "author": "易久",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
-            "name": "诡秘娃娃(1)",
-            "version": "1",
-            "version_code": 1,
-            "desc": "",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E6%98%93%E4%B9%85/classic/%E8%AF%A1%E7%A7%98%E5%A8%83%E5%A8%83%281%29.json",
-                "https://api.oliva.icu/extiverse/deck/%E6%98%93%E4%B9%85/classic/%E8%AF%A1%E7%A7%98%E5%A8%83%E5%A8%83%281%29.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E6%98%93%E4%B9%85/classic/%E8%AF%A1%E7%A7%98%E5%A8%83%E5%A8%83%281%29.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E6%98%93%E4%B9%85/classic/%E8%AF%A1%E7%A7%98%E5%A8%83%E5%A8%83%281%29.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E6%98%93%E4%B9%85/classic/%E8%AF%A1%E7%A7%98%E5%A8%83%E5%A8%83%281%29.json"
-            ],
-            "path": "deck/易久/classic/诡秘娃娃(1).json",
             "author": "易久",
             "type": "deck",
             "sub_type": "classic",
