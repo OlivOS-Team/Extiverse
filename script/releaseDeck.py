@@ -29,6 +29,8 @@ if __name__ == '__main__':
             meta_info_data = None
             file_dir_path = f'../deck/{deck_user_this}/{deck_type}/'
             file_dir_path_real = f'deck/{deck_user_this}/{deck_type}/'
+            deck_user_this_quote = parse.quote(deck_user_this)
+            file_dir_path_real_quote = f'deck/{deck_user_this_quote}/{deck_type}/'
             file_meta_info_path = f'../deck/{deck_user_this}/{deck_type}/__index.json'
             if os.path.exists(file_meta_info_path):
                 with open(file_meta_info_path, 'r', encoding='utf-8') as f:
@@ -57,7 +59,7 @@ if __name__ == '__main__':
                             deck_name = deck_name.rstrip('.xlsx')
                         elif deck_name.endswith('.xls'):
                             deck_name = deck_name.rstrip('.xls')
-                    deck_url_path_this = file_dir_path_real + parse.quote(deck_name_this)
+                    deck_url_path_this = file_dir_path_real_quote + parse.quote(deck_name_this)
                     info_this = {
                         'name': meta_info_data.get(deck_name_this, {}).get('name', deck_name),
                         'download_link': [
