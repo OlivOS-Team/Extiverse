@@ -37,6 +37,24 @@
             "resource_link": []
         },
         {
+            "name": "6版怪锤抽取-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/6%E7%89%88%E6%80%AA%E9%94%A4%E6%8A%BD%E5%8F%96-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/6%E7%89%88%E6%80%AA%E9%94%A4%E6%8A%BD%E5%8F%96-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/6%E7%89%88%E6%80%AA%E9%94%A4%E6%8A%BD%E5%8F%96-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/6%E7%89%88%E6%80%AA%E9%94%A4%E6%8A%BD%E5%8F%96-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/6%E7%89%88%E6%80%AA%E9%94%A4%E6%8A%BD%E5%8F%96-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/6版怪锤抽取-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "ABO性别测试",
             "version": "1",
             "version_code": 1,
@@ -147,6 +165,42 @@
             ]
         },
         {
+            "name": "GRE单词-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/GRE%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/GRE%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/GRE%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/GRE%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/GRE%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/GRE单词-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "IELTS单词-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/IELTS%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/IELTS%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/IELTS%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/IELTS%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/IELTS%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/IELTS单词-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "KPC欢乐餐厅v1.1",
             "version": "1",
             "version_code": 1,
@@ -165,6 +219,24 @@
             "resource_link": []
         },
         {
+            "name": "TOEFL单词-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/TOEFL%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/TOEFL%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/TOEFL%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/TOEFL%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/TOEFL%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/TOEFL单词-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "UNO牌",
             "version": "1",
             "version_code": 1,
@@ -178,6 +250,24 @@
             ],
             "path": "deck/lunzhiPenxil/classic/UNO-UNO合集.json",
             "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "V家P主-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/V%E5%AE%B6P%E4%B8%BB-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/V%E5%AE%B6P%E4%B8%BB-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/V%E5%AE%B6P%E4%B8%BB-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/V%E5%AE%B6P%E4%B8%BB-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/V%E5%AE%B6P%E4%B8%BB-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/V家P主-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -255,6 +345,24 @@
             "resource_link": []
         },
         {
+            "name": "万圣糖果-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%87%E5%9C%A3%E7%B3%96%E6%9E%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%87%E5%9C%A3%E7%B3%96%E6%9E%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%87%E5%9C%A3%E7%B3%96%E6%9E%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%87%E5%9C%A3%E7%B3%96%E6%9E%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%87%E5%9C%A3%E7%B3%96%E6%9E%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/万圣糖果-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "中二称号生成",
             "version": "1",
             "version_code": 1,
@@ -268,6 +376,24 @@
             ],
             "path": "deck/akashic4869/classic/中二称号生成.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "中秋月饼-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%AD%E7%A7%8B%E6%9C%88%E9%A5%BC-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%AD%E7%A7%8B%E6%9C%88%E9%A5%BC-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%AD%E7%A7%8B%E6%9C%88%E9%A5%BC-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%AD%E7%A7%8B%E6%9C%88%E9%A5%BC-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E4%B8%AD%E7%A7%8B%E6%9C%88%E9%A5%BC-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/中秋月饼-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -471,6 +597,24 @@
             "resource_link": []
         },
         {
+            "name": "卢恩符文-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8D%A2%E6%81%A9%E7%AC%A6%E6%96%87-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8D%A2%E6%81%A9%E7%AC%A6%E6%96%87-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8D%A2%E6%81%A9%E7%AC%A6%E6%96%87-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8D%A2%E6%81%A9%E7%AC%A6%E6%96%87-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8D%A2%E6%81%A9%E7%AC%A6%E6%96%87-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/卢恩符文-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "反人类卡牌V1.2",
             "version": "1",
             "version_code": 1,
@@ -484,6 +628,42 @@
             ],
             "path": "deck/akashic4869/classic/反人类卡牌V1.2.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "古希腊神祗-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8F%A4%E5%B8%8C%E8%85%8A%E7%A5%9E%E7%A5%97-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8F%A4%E5%B8%8C%E8%85%8A%E7%A5%9E%E7%A5%97-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8F%A4%E5%B8%8C%E8%85%8A%E7%A5%9E%E7%A5%97-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8F%A4%E5%B8%8C%E8%85%8A%E7%A5%9E%E7%A5%97-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%8F%A4%E5%B8%8C%E8%85%8A%E7%A5%9E%E7%A5%97-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/古希腊神祗-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "哈利波特-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/哈利波特-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -579,6 +759,24 @@
             "resource_link": []
         },
         {
+            "name": "天罡地煞-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A4%A9%E7%BD%A1%E5%9C%B0%E7%85%9E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A4%A9%E7%BD%A1%E5%9C%B0%E7%85%9E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A4%A9%E7%BD%A1%E5%9C%B0%E7%85%9E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A4%A9%E7%BD%A1%E5%9C%B0%E7%85%9E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A4%A9%E7%BD%A1%E5%9C%B0%E7%85%9E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/天罡地煞-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "奇怪技能",
             "version": "1",
             "version_code": 1,
@@ -615,6 +813,24 @@
             "resource_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/RE/resource/aoteman.zip"
             ]
+        },
+        {
+            "name": "好味克家菜-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A5%BD%E5%91%B3%E5%85%8B%E5%AE%B6%E8%8F%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A5%BD%E5%91%B3%E5%85%8B%E5%AE%B6%E8%8F%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A5%BD%E5%91%B3%E5%85%8B%E5%AE%B6%E8%8F%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A5%BD%E5%91%B3%E5%85%8B%E5%AE%B6%E8%8F%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%A5%BD%E5%91%B3%E5%85%8B%E5%AE%B6%E8%8F%9C-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/好味克家菜-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
         },
         {
             "name": "孙子兵法",
@@ -666,6 +882,24 @@
             ],
             "path": "deck/akashic4869/classic/宝可梦变身.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "宝石-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%AE%9D%E7%9F%B3-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%AE%9D%E7%9F%B3-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%AE%9D%E7%9F%B3-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%AE%9D%E7%9F%B3-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%AE%9D%E7%9F%B3-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/宝石-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -853,6 +1087,24 @@
             "resource_link": []
         },
         {
+            "name": "山海经-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%B1%B1%E6%B5%B7%E7%BB%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%B1%B1%E6%B5%B7%E7%BB%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%B1%B1%E6%B5%B7%E7%BB%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%B1%B1%E6%B5%B7%E7%BB%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E5%B1%B1%E6%B5%B7%E7%BB%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/山海经-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "平安京",
             "version": "1",
             "version_code": 1,
@@ -927,6 +1179,24 @@
             "resource_link": []
         },
         {
+            "name": "拼接兽-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%8B%BC%E6%8E%A5%E5%85%BD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%8B%BC%E6%8E%A5%E5%85%BD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%8B%BC%E6%8E%A5%E5%85%BD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%8B%BC%E6%8E%A5%E5%85%BD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%8B%BC%E6%8E%A5%E5%85%BD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/拼接兽-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "换装惩罚",
             "version": "1",
             "version_code": 1,
@@ -981,6 +1251,24 @@
             "resource_link": []
         },
         {
+            "name": "方舟指令-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%96%B9%E8%88%9F%E6%8C%87%E4%BB%A4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%96%B9%E8%88%9F%E6%8C%87%E4%BB%A4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%96%B9%E8%88%9F%E6%8C%87%E4%BB%A4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%96%B9%E8%88%9F%E6%8C%87%E4%BB%A4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%96%B9%E8%88%9F%E6%8C%87%E4%BB%A4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/方舟指令-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "无尽的进度条",
             "version": "20210111",
             "version_code": 2,
@@ -1012,6 +1300,24 @@
             ],
             "path": "deck/luanhuanchun/classic/dates.json",
             "author": "滦浣春_6hc",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "旷野之息图鉴-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%97%B7%E9%87%8E%E4%B9%8B%E6%81%AF%E5%9B%BE%E9%89%B4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%97%B7%E9%87%8E%E4%B9%8B%E6%81%AF%E5%9B%BE%E9%89%B4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%97%B7%E9%87%8E%E4%B9%8B%E6%81%AF%E5%9B%BE%E9%89%B4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%97%B7%E9%87%8E%E4%B9%8B%E6%81%AF%E5%9B%BE%E9%89%B4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%97%B7%E9%87%8E%E4%B9%8B%E6%81%AF%E5%9B%BE%E9%89%B4-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/旷野之息图鉴-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1071,6 +1377,24 @@
             "resource_link": []
         },
         {
+            "name": "春节红包-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%98%A5%E8%8A%82%E7%BA%A2%E5%8C%85-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%98%A5%E8%8A%82%E7%BA%A2%E5%8C%85-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%98%A5%E8%8A%82%E7%BA%A2%E5%8C%85-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%98%A5%E8%8A%82%E7%BA%A2%E5%8C%85-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%98%A5%E8%8A%82%E7%BA%A2%E5%8C%85-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/春节红包-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "替身生成",
             "version": "1",
             "version_code": 1,
@@ -1102,6 +1426,42 @@
             ],
             "path": "deck/lunzhiPenxil/classic/有多长.json",
             "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "本草纲目-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/本草纲目-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "植物七种-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%A4%8D%E7%89%A9%E4%B8%83%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%A4%8D%E7%89%A9%E4%B8%83%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%A4%8D%E7%89%A9%E4%B8%83%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%A4%8D%E7%89%A9%E4%B8%83%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%A4%8D%E7%89%A9%E4%B8%83%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/植物七种-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1179,6 +1539,24 @@
             "resource_link": []
         },
         {
+            "name": "毛茸茸-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%AF%9B%E8%8C%B8%E8%8C%B8-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%AF%9B%E8%8C%B8%E8%8C%B8-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%AF%9B%E8%8C%B8%E8%8C%B8-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%AF%9B%E8%8C%B8%E8%8C%B8-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%AF%9B%E8%8C%B8%E8%8C%B8-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/毛茸茸-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "沙雕-任意门",
             "version": "1",
             "version_code": 1,
@@ -1228,6 +1606,24 @@
             ],
             "path": "deck/RE/classic/法术.json",
             "author": "RE",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "洋果子店ROSE-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%B4%8B%E6%9E%9C%E5%AD%90%E5%BA%97ROSE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%B4%8B%E6%9E%9C%E5%AD%90%E5%BA%97ROSE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%B4%8B%E6%9E%9C%E5%AD%90%E5%BA%97ROSE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%B4%8B%E6%9E%9C%E5%AD%90%E5%BA%97ROSE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E6%B4%8B%E6%9E%9C%E5%AD%90%E5%BA%97ROSE-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/洋果子店ROSE-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1325,6 +1721,24 @@
             "resource_link": []
         },
         {
+            "name": "猫和老鼠-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/猫和老鼠-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "猫咪种类",
             "version": "1",
             "version_code": 1,
@@ -1338,6 +1752,24 @@
             ],
             "path": "deck/akashic4869/classic/猫咪种类.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "猫品种-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%93%81%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%93%81%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%93%81%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%93%81%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%8C%AB%E5%93%81%E7%A7%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/猫品种-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1455,6 +1887,24 @@
             "resource_link": []
         },
         {
+            "name": "端午粽子-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%AB%AF%E5%8D%88%E7%B2%BD%E5%AD%90-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%AB%AF%E5%8D%88%E7%B2%BD%E5%AD%90-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%AB%AF%E5%8D%88%E7%B2%BD%E5%AD%90-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%AB%AF%E5%8D%88%E7%B2%BD%E5%AD%90-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E7%AB%AF%E5%8D%88%E7%B2%BD%E5%AD%90-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/端午粽子-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "算个数",
             "version": "1",
             "version_code": 1,
@@ -1527,6 +1977,24 @@
             "resource_link": []
         },
         {
+            "name": "考研单词-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%80%83%E7%A0%94%E5%8D%95%E8%AF%8D-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/考研单词-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "职业种族",
             "version": "1",
             "version_code": 1,
@@ -1540,6 +2008,24 @@
             ],
             "path": "deck/RE/classic/职业种族.json",
             "author": "RE",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "色号-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%89%B2%E5%8F%B7-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%89%B2%E5%8F%B7-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%89%B2%E5%8F%B7-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%89%B2%E5%8F%B7-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%89%B2%E5%8F%B7-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/色号-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1689,6 +2175,24 @@
             "resource_link": []
         },
         {
+            "name": "蜜雪冰城-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/蜜雪冰城-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "装备",
             "version": "1",
             "version_code": 1,
@@ -1743,6 +2247,24 @@
             "resource_link": []
         },
         {
+            "name": "诺弗兰物语-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%AF%BA%E5%BC%97%E5%85%B0%E7%89%A9%E8%AF%AD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%AF%BA%E5%BC%97%E5%85%B0%E7%89%A9%E8%AF%AD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%AF%BA%E5%BC%97%E5%85%B0%E7%89%A9%E8%AF%AD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%AF%BA%E5%BC%97%E5%85%B0%E7%89%A9%E8%AF%AD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E8%AF%BA%E5%BC%97%E5%85%B0%E7%89%A9%E8%AF%AD-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/诺弗兰物语-于言诺.json",
+            "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "超能力&副作用",
             "version": "1",
             "version_code": 1,
@@ -1792,6 +2314,24 @@
             ],
             "path": "deck/akashic4869/classic/邪神召唤.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "酷刑-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%85%B7%E5%88%91-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%85%B7%E5%88%91-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%85%B7%E5%88%91-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%85%B7%E5%88%91-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%85%B7%E5%88%91-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/酷刑-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1864,6 +2404,24 @@
             ],
             "path": "deck/Cirno-NULL/classic/随机团.json",
             "author": "Cirno-NULL",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "随机菜品-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%9A%8F%E6%9C%BA%E8%8F%9C%E5%93%81-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%9A%8F%E6%9C%BA%E8%8F%9C%E5%93%81-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%9A%8F%E6%9C%BA%E8%8F%9C%E5%93%81-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%9A%8F%E6%9C%BA%E8%8F%9C%E5%93%81-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%9A%8F%E6%9C%BA%E8%8F%9C%E5%93%81-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/随机菜品-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -2014,6 +2572,24 @@
             ],
             "path": "deck/lunzhiPenxil/classic/魔都模组卡片-CNMODSC.json",
             "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "鸽子菜式-于言诺",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%B8%BD%E5%AD%90%E8%8F%9C%E5%BC%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%B8%BD%E5%AD%90%E8%8F%9C%E5%BC%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%B8%BD%E5%AD%90%E8%8F%9C%E5%BC%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%B8%BD%E5%AD%90%E8%8F%9C%E5%BC%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%BA%8E%E8%A8%80%E8%AF%BA/classic/%E9%B8%BD%E5%AD%90%E8%8F%9C%E5%BC%8F-%E4%BA%8E%E8%A8%80%E8%AF%BA.json"
+            ],
+            "path": "deck/于言诺/classic/鸽子菜式-于言诺.json",
+            "author": "于言诺",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
