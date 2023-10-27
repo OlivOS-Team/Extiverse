@@ -83,12 +83,13 @@ if __name__ == '__main__':
                 pass
     if md5_dict is None:
         md5_dict = {}
+    md5_dict_new = {}
     for res_this in res:
         res_md5_this = checkFileMD5(os.path.join('..', 'deck', res_this))
         res_md5_this_old = md5_dict.get(res_this, None)
         if res_md5_this_old != res_md5_this:
             print('File Change : %s : %s -> %s' % (res_this, res_md5_this_old, res_md5_this))
             upload(os.path.join('..', 'deck', res_this), os.path.join('deck', res_this).replace('\\', '/'))
-        md5_dict[res_this] = res_md5_this
+        md5_dict_new[res_this] = res_md5_this
     with open('deck_md5.json', 'w', encoding='utf-8') as f:
-        f.write(json.dumps(md5_dict, indent=4, ensure_ascii=False))
+        f.write(json.dumps(md5_dict_new, indent=4, ensure_ascii=False))
