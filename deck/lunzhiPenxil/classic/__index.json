@@ -1,13 +1,11 @@
 {
     "明日方舟-Arknights(单抽-十连).json": {
-        "name": "明日方舟",
         "version": "201111",
         "version_code": 1,
         "desc": "明日方舟干员寻访，干员档案数据全部来自ArknightsWiKi，文案版权属于鹰角网络。在这里，你甚至可以抽出绝版暴行",
         "author": "lunzhiPenxil"
     },
     "明日方舟卡池-Arknight(卡池-[对应卡池名称]).json": {
-        "name": "明日方舟卡池",
         "version": "201111",
         "version_code": 1,
         "desc": "明日方舟卡池寻访，干员档案数据全部来自ArknightsWiKi，文案版权属于鹰角网络。在这里，你甚至可以抽出绝版暴行",
