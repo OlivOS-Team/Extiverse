@@ -73,6 +73,24 @@
             "resource_link": []
         },
         {
+            "name": "BA发癫语录(超长刷屏警告，慎装)",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/BA%E5%8F%91%E7%99%AB%E8%AF%AD%E5%BD%95%28%E8%B6%85%E9%95%BF%E5%88%B7%E5%B1%8F%E8%AD%A6%E5%91%8A%EF%BC%8C%E6%85%8E%E8%A3%85%29.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/BA%E5%8F%91%E7%99%AB%E8%AF%AD%E5%BD%95%28%E8%B6%85%E9%95%BF%E5%88%B7%E5%B1%8F%E8%AD%A6%E5%91%8A%EF%BC%8C%E6%85%8E%E8%A3%85%29.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/BA%E5%8F%91%E7%99%AB%E8%AF%AD%E5%BD%95%28%E8%B6%85%E9%95%BF%E5%88%B7%E5%B1%8F%E8%AD%A6%E5%91%8A%EF%BC%8C%E6%85%8E%E8%A3%85%29.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/BA%E5%8F%91%E7%99%AB%E8%AF%AD%E5%BD%95%28%E8%B6%85%E9%95%BF%E5%88%B7%E5%B1%8F%E8%AD%A6%E5%91%8A%EF%BC%8C%E6%85%8E%E8%A3%85%29.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/BA%E5%8F%91%E7%99%AB%E8%AF%AD%E5%BD%95%28%E8%B6%85%E9%95%BF%E5%88%B7%E5%B1%8F%E8%AD%A6%E5%91%8A%EF%BC%8C%E6%85%8E%E8%A3%85%29.json"
+            ],
+            "path": "deck/物色瑞丰/classic/BA发癫语录(超长刷屏警告，慎装).json",
+            "author": "物色瑞丰",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "CDDA变异抽取",
             "version": "1.0.1",
             "version_code": 1,
@@ -273,6 +291,24 @@
             "resource_link": []
         },
         {
+            "name": "coc的一百零一种导入方式",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/coc%E7%9A%84%E4%B8%80%E7%99%BE%E9%9B%B6%E4%B8%80%E7%A7%8D%E5%AF%BC%E5%85%A5%E6%96%B9%E5%BC%8F.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/coc%E7%9A%84%E4%B8%80%E7%99%BE%E9%9B%B6%E4%B8%80%E7%A7%8D%E5%AF%BC%E5%85%A5%E6%96%B9%E5%BC%8F.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/coc%E7%9A%84%E4%B8%80%E7%99%BE%E9%9B%B6%E4%B8%80%E7%A7%8D%E5%AF%BC%E5%85%A5%E6%96%B9%E5%BC%8F.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/coc%E7%9A%84%E4%B8%80%E7%99%BE%E9%9B%B6%E4%B8%80%E7%A7%8D%E5%AF%BC%E5%85%A5%E6%96%B9%E5%BC%8F.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/coc%E7%9A%84%E4%B8%80%E7%99%BE%E9%9B%B6%E4%B8%80%E7%A7%8D%E5%AF%BC%E5%85%A5%E6%96%B9%E5%BC%8F.json"
+            ],
+            "path": "deck/物色瑞丰/classic/coc的一百零一种导入方式.json",
+            "author": "物色瑞丰",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "coc阵营",
             "version": "1",
             "version_code": 1,
@@ -322,6 +358,24 @@
             ],
             "path": "deck/akashic4869/classic/v家推荐.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "xp系统2.0",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/xp%E7%B3%BB%E7%BB%9F2.0.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/xp%E7%B3%BB%E7%BB%9F2.0.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/xp%E7%B3%BB%E7%BB%9F2.0.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/xp%E7%B3%BB%E7%BB%9F2.0.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/xp%E7%B3%BB%E7%BB%9F2.0.json"
+            ],
+            "path": "deck/物色瑞丰/classic/xp系统2.0.json",
+            "author": "物色瑞丰",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -502,6 +556,24 @@
             ],
             "path": "deck/akashic4869/classic/今日玄学.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "今日红色语录",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E4%BB%8A%E6%97%A5%E7%BA%A2%E8%89%B2%E8%AF%AD%E5%BD%95.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E4%BB%8A%E6%97%A5%E7%BA%A2%E8%89%B2%E8%AF%AD%E5%BD%95.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E4%BB%8A%E6%97%A5%E7%BA%A2%E8%89%B2%E8%AF%AD%E5%BD%95.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E4%BB%8A%E6%97%A5%E7%BA%A2%E8%89%B2%E8%AF%AD%E5%BD%95.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E4%BB%8A%E6%97%A5%E7%BA%A2%E8%89%B2%E8%AF%AD%E5%BD%95.json"
+            ],
+            "path": "deck/物色瑞丰/classic/今日红色语录.json",
+            "author": "物色瑞丰",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -862,6 +934,24 @@
             ],
             "path": "deck/akashic4869/classic/奇怪技能.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "奇怪的知识增加了",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E5%A5%87%E6%80%AA%E7%9A%84%E7%9F%A5%E8%AF%86%E5%A2%9E%E5%8A%A0%E4%BA%86.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E5%A5%87%E6%80%AA%E7%9A%84%E7%9F%A5%E8%AF%86%E5%A2%9E%E5%8A%A0%E4%BA%86.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E5%A5%87%E6%80%AA%E7%9A%84%E7%9F%A5%E8%AF%86%E5%A2%9E%E5%8A%A0%E4%BA%86.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E5%A5%87%E6%80%AA%E7%9A%84%E7%9F%A5%E8%AF%86%E5%A2%9E%E5%8A%A0%E4%BA%86.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E5%A5%87%E6%80%AA%E7%9A%84%E7%9F%A5%E8%AF%86%E5%A2%9E%E5%8A%A0%E4%BA%86.json"
+            ],
+            "path": "deck/物色瑞丰/classic/奇怪的知识增加了.json",
+            "author": "物色瑞丰",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -2807,6 +2897,24 @@
             "resource_link": []
         },
         {
+            "name": "随机中二技能名",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E4%B8%AD%E4%BA%8C%E6%8A%80%E8%83%BD%E5%90%8D.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E4%B8%AD%E4%BA%8C%E6%8A%80%E8%83%BD%E5%90%8D.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E4%B8%AD%E4%BA%8C%E6%8A%80%E8%83%BD%E5%90%8D.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E4%B8%AD%E4%BA%8C%E6%8A%80%E8%83%BD%E5%90%8D.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E4%B8%AD%E4%BA%8C%E6%8A%80%E8%83%BD%E5%90%8D.json"
+            ],
+            "path": "deck/物色瑞丰/classic/随机中二技能名.json",
+            "author": "物色瑞丰",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "随机团",
             "version": "20201028",
             "version_code": 1,
@@ -2820,6 +2928,42 @@
             ],
             "path": "deck/Cirno-NULL/classic/随机团.json",
             "author": "Cirno-NULL",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "随机猫娘",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98.json"
+            ],
+            "path": "deck/物色瑞丰/classic/随机猫娘.json",
+            "author": "物色瑞丰",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "随机猫娘招募v2.8（赤城家威力增强版）",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98%E6%8B%9B%E5%8B%9Fv2.8%EF%BC%88%E8%B5%A4%E5%9F%8E%E5%AE%B6%E5%A8%81%E5%8A%9B%E5%A2%9E%E5%BC%BA%E7%89%88%EF%BC%89.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98%E6%8B%9B%E5%8B%9Fv2.8%EF%BC%88%E8%B5%A4%E5%9F%8E%E5%AE%B6%E5%A8%81%E5%8A%9B%E5%A2%9E%E5%BC%BA%E7%89%88%EF%BC%89.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98%E6%8B%9B%E5%8B%9Fv2.8%EF%BC%88%E8%B5%A4%E5%9F%8E%E5%AE%B6%E5%A8%81%E5%8A%9B%E5%A2%9E%E5%BC%BA%E7%89%88%EF%BC%89.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98%E6%8B%9B%E5%8B%9Fv2.8%EF%BC%88%E8%B5%A4%E5%9F%8E%E5%AE%B6%E5%A8%81%E5%8A%9B%E5%A2%9E%E5%BC%BA%E7%89%88%EF%BC%89.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%89%A9%E8%89%B2%E7%91%9E%E4%B8%B0/classic/%E9%9A%8F%E6%9C%BA%E7%8C%AB%E5%A8%98%E6%8B%9B%E5%8B%9Fv2.8%EF%BC%88%E8%B5%A4%E5%9F%8E%E5%AE%B6%E5%A8%81%E5%8A%9B%E5%A2%9E%E5%BC%BA%E7%89%88%EF%BC%89.json"
+            ],
+            "path": "deck/物色瑞丰/classic/随机猫娘招募v2.8（赤城家威力增强版）.json",
+            "author": "物色瑞丰",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
