@@ -1449,6 +1449,24 @@
             "resource_link": []
         },
         {
+            "name": "方舟信物",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%AD%94%E7%8E%8B/classic/%E6%96%B9%E8%88%9F%E4%BF%A1%E7%89%A9.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%AD%94%E7%8E%8B/classic/%E6%96%B9%E8%88%9F%E4%BF%A1%E7%89%A9.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%96%B9%E8%88%9F%E4%BF%A1%E7%89%A9.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%96%B9%E8%88%9F%E4%BF%A1%E7%89%A9.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%96%B9%E8%88%9F%E4%BF%A1%E7%89%A9.json"
+            ],
+            "path": "deck/魔王/classic/方舟信物.json",
+            "author": "魔王",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "方舟指令-于言诺",
             "version": "1",
             "version_code": 1,
@@ -1534,6 +1552,42 @@
             ],
             "path": "deck/lunzhiPenxil/classic/明日方舟-Arknights(单抽-十连).json",
             "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "明日方舟",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F.json"
+            ],
+            "path": "deck/魔王/classic/明日方舟.json",
+            "author": "魔王",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "明日方舟TRPG",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9FTRPG.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9FTRPG.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9FTRPG.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9FTRPG.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%AD%94%E7%8E%8B/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9FTRPG.json"
+            ],
+            "path": "deck/魔王/classic/明日方舟TRPG.json",
+            "author": "魔王",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
