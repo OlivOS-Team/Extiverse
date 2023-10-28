@@ -1630,24 +1630,6 @@
         },
         {
             "name": "明日方舟",
-            "version": "201111",
-            "version_code": 1,
-            "desc": "明日方舟干员寻访，干员档案数据全部来自ArknightsWiKi，文案版权属于鹰角网络。在这里，你甚至可以抽出绝版暴行",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json",
-                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json"
-            ],
-            "path": "deck/lunzhiPenxil/classic/明日方舟-Arknights(单抽-十连).json",
-            "author": "lunzhiPenxil",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
-            "name": "明日方舟",
             "version": "1",
             "version_code": 1,
             "desc": "",
@@ -1660,6 +1642,24 @@
             ],
             "path": "deck/魔王/classic/明日方舟.json",
             "author": "魔王",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "明日方舟-Arknights(单抽-十连)",
+            "version": "201111",
+            "version_code": 1,
+            "desc": "明日方舟干员寻访，干员档案数据全部来自ArknightsWiKi，文案版权属于鹰角网络。在这里，你甚至可以抽出绝版暴行",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json",
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F-Arknights%28%E5%8D%95%E6%8A%BD-%E5%8D%81%E8%BF%9E%29.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/明日方舟-Arknights(单抽-十连).json",
+            "author": "lunzhiPenxil",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1683,7 +1683,7 @@
             "resource_link": []
         },
         {
-            "name": "明日方舟卡池",
+            "name": "明日方舟卡池-Arknight(卡池-[对应卡池名称])",
             "version": "201111",
             "version_code": 1,
             "desc": "明日方舟卡池寻访，干员档案数据全部来自ArknightsWiKi，文案版权属于鹰角网络。在这里，你甚至可以抽出绝版暴行",
