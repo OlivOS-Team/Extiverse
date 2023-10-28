@@ -1937,6 +1937,24 @@
             ]
         },
         {
+            "name": "海龟汤",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/susen/classic/%E6%B5%B7%E9%BE%9F%E6%B1%A4.json",
+                "https://api.oliva.icu/extiverse/deck/susen/classic/%E6%B5%B7%E9%BE%9F%E6%B1%A4.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/susen/classic/%E6%B5%B7%E9%BE%9F%E6%B1%A4.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/susen/classic/%E6%B5%B7%E9%BE%9F%E6%B1%A4.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/susen/classic/%E6%B5%B7%E9%BE%9F%E6%B1%A4.json"
+            ],
+            "path": "deck/susen/classic/海龟汤.json",
+            "author": "susen",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "游戏王卡制作",
             "version": "1",
             "version_code": 1,
@@ -2481,6 +2499,26 @@
             "resource_link": []
         },
         {
+            "name": "花影塔罗牌",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/susen/classic/%E8%8A%B1%E5%BD%B1%E5%A1%94%E7%BD%97%E7%89%8C.json",
+                "https://api.oliva.icu/extiverse/deck/susen/classic/%E8%8A%B1%E5%BD%B1%E5%A1%94%E7%BD%97%E7%89%8C.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/susen/classic/%E8%8A%B1%E5%BD%B1%E5%A1%94%E7%BD%97%E7%89%8C.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/susen/classic/%E8%8A%B1%E5%BD%B1%E5%A1%94%E7%BD%97%E7%89%8C.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/susen/classic/%E8%8A%B1%E5%BD%B1%E5%A1%94%E7%BD%97%E7%89%8C.json"
+            ],
+            "path": "deck/susen/classic/花影塔罗牌.json",
+            "author": "susen",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/susen/resource/%E8%8A%B1%E5%BD%B1%E5%A1%94%E7%BD%97.zip"
+            ]
+        },
+        {
             "name": "蜜雪冰城-于言诺",
             "version": "1",
             "version_code": 1,
@@ -2620,6 +2658,24 @@
             ],
             "path": "deck/akashic4869/classic/超能力&副作用.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "转生到重返未来1999成为神秘学家",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/susen/classic/%E8%BD%AC%E7%94%9F%E5%88%B0%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999%E6%88%90%E4%B8%BA%E7%A5%9E%E7%A7%98%E5%AD%A6%E5%AE%B6.json",
+                "https://api.oliva.icu/extiverse/deck/susen/classic/%E8%BD%AC%E7%94%9F%E5%88%B0%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999%E6%88%90%E4%B8%BA%E7%A5%9E%E7%A7%98%E5%AD%A6%E5%AE%B6.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/susen/classic/%E8%BD%AC%E7%94%9F%E5%88%B0%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999%E6%88%90%E4%B8%BA%E7%A5%9E%E7%A7%98%E5%AD%A6%E5%AE%B6.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/susen/classic/%E8%BD%AC%E7%94%9F%E5%88%B0%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999%E6%88%90%E4%B8%BA%E7%A5%9E%E7%A7%98%E5%AD%A6%E5%AE%B6.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/susen/classic/%E8%BD%AC%E7%94%9F%E5%88%B0%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999%E6%88%90%E4%B8%BA%E7%A5%9E%E7%A7%98%E5%AD%A6%E5%AE%B6.json"
+            ],
+            "path": "deck/susen/classic/转生到重返未来1999成为神秘学家.json",
+            "author": "susen",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
