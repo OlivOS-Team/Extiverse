@@ -1,0 +1,33 @@
+name: releaseDeckTestForPR
+on:
+  pull_request:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      PACK_NAME: ""
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11.0
+          cache: pip
+          architecture: x64
+      - name: Setup Python Package
+        run: |
+          cd ./script/
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          cd ..
+      - name: Run releaseDeck.py
+        run: |
+          cd ./script/
+          python releaseDeck.py
+          cd ..
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Artifacts
+          path: ./target/deck/index.json
