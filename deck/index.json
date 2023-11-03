@@ -849,6 +849,24 @@
             "resource_link": []
         },
         {
+            "name": "哨兵向导",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E5%93%A8%E5%85%B5%E5%90%91%E5%AF%BC.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E5%93%A8%E5%85%B5%E5%90%91%E5%AF%BC.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E5%93%A8%E5%85%B5%E5%90%91%E5%AF%BC.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E5%93%A8%E5%85%B5%E5%90%91%E5%AF%BC.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E5%93%A8%E5%85%B5%E5%90%91%E5%AF%BC.json"
+            ],
+            "path": "deck/鸮申克啾赎/classic/哨兵向导.json",
+            "author": "鸮申克啾赎",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "唐诗三百首",
             "version": "20201031",
             "version_code": 1,
@@ -1503,6 +1521,24 @@
             "resource_link": []
         },
         {
+            "name": "披萨，但是修改完",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%8A%AB%E8%90%A8%EF%BC%8C%E4%BD%86%E6%98%AF%E4%BF%AE%E6%94%B9%E5%AE%8C.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%8A%AB%E8%90%A8%EF%BC%8C%E4%BD%86%E6%98%AF%E4%BF%AE%E6%94%B9%E5%AE%8C.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%8A%AB%E8%90%A8%EF%BC%8C%E4%BD%86%E6%98%AF%E4%BF%AE%E6%94%B9%E5%AE%8C.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%8A%AB%E8%90%A8%EF%BC%8C%E4%BD%86%E6%98%AF%E4%BF%AE%E6%94%B9%E5%AE%8C.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%8A%AB%E8%90%A8%EF%BC%8C%E4%BD%86%E6%98%AF%E4%BF%AE%E6%94%B9%E5%AE%8C.json"
+            ],
+            "path": "deck/鸮申克啾赎/classic/披萨，但是修改完.json",
+            "author": "鸮申克啾赎",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "拼接兽-于言诺",
             "version": "1",
             "version_code": 1,
@@ -1786,6 +1822,24 @@
             ],
             "path": "deck/于言诺/classic/春节红包-于言诺.json",
             "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "智者不入爱河",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%99%BA%E8%80%85%E4%B8%8D%E5%85%A5%E7%88%B1%E6%B2%B3.json"
+            ],
+            "path": "deck/鸮申克啾赎/classic/智者不入爱河.json",
+            "author": "鸮申克啾赎",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -2079,6 +2133,24 @@
             "resource_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/AmberKeter/resource/%E6%B5%93%E6%83%85%E8%9C%9C%E6%84%8F%E7%9A%84%E6%97%B6%E8%8A%82-%E5%B8%A6%E5%9B%BE%E7%89%88.zip"
             ]
+        },
+        {
+            "name": "海王深情语录",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%B5%B7%E7%8E%8B%E6%B7%B1%E6%83%85%E8%AF%AD%E5%BD%95.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%B5%B7%E7%8E%8B%E6%B7%B1%E6%83%85%E8%AF%AD%E5%BD%95.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%B5%B7%E7%8E%8B%E6%B7%B1%E6%83%85%E8%AF%AD%E5%BD%95.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%B5%B7%E7%8E%8B%E6%B7%B1%E6%83%85%E8%AF%AD%E5%BD%95.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E6%B5%B7%E7%8E%8B%E6%B7%B1%E6%83%85%E8%AF%AD%E5%BD%95.json"
+            ],
+            "path": "deck/鸮申克啾赎/classic/海王深情语录.json",
+            "author": "鸮申克啾赎",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
         },
         {
             "name": "海龟汤",
@@ -2820,6 +2892,24 @@
             ],
             "path": "deck/susen/classic/转生到重返未来1999成为神秘学家.json",
             "author": "susen",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "遇见老婆那一天",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E9%81%87%E8%A7%81%E8%80%81%E5%A9%86%E9%82%A3%E4%B8%80%E5%A4%A9.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E9%81%87%E8%A7%81%E8%80%81%E5%A9%86%E9%82%A3%E4%B8%80%E5%A4%A9.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E9%81%87%E8%A7%81%E8%80%81%E5%A9%86%E9%82%A3%E4%B8%80%E5%A4%A9.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E9%81%87%E8%A7%81%E8%80%81%E5%A9%86%E9%82%A3%E4%B8%80%E5%A4%A9.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%B8%AE%E7%94%B3%E5%85%8B%E5%95%BE%E8%B5%8E/classic/%E9%81%87%E8%A7%81%E8%80%81%E5%A9%86%E9%82%A3%E4%B8%80%E5%A4%A9.json"
+            ],
+            "path": "deck/鸮申克啾赎/classic/遇见老婆那一天.json",
+            "author": "鸮申克啾赎",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
