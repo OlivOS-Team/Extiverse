@@ -171,6 +171,13 @@
         "desc": "包含密教模拟器中的文献。",
         "author": "lunzhiPenxil"
     },
+    "密教模拟器-密教成就.json": {
+        "name": "密教模拟器-密教成就",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中的成就。",
+        "author": "lunzhiPenxil"
+    },
     "阳炎计划-阳炎(歌曲-人物).json": {
         "name": "阳炎计划",
         "version": "1",
