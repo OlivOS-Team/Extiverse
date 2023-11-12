@@ -1196,8 +1196,8 @@
         },
         {
             "name": "密教模拟器-合集",
-            "version": "1",
-            "version_code": 1,
+            "version": "20231112001",
+            "version_code": 3,
             "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物。",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E5%90%88%E9%9B%86.json",
@@ -1207,24 +1207,6 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E5%90%88%E9%9B%86.json"
             ],
             "path": "deck/lunzhiPenxil/classic/密教模拟器-密教合集.json",
-            "author": "lunzhiPenxil",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
-            "name": "密教模拟器-合集最终版",
-            "version": "1",
-            "version_code": 1,
-            "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物。",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json",
-                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99-%E5%90%88%E9%9B%86%E6%9C%80%E7%BB%88%E7%89%88.json"
-            ],
-            "path": "deck/lunzhiPenxil/classic/密教模拟器-密教-合集最终版.json",
             "author": "lunzhiPenxil",
             "type": "deck",
             "sub_type": "classic",
@@ -1339,6 +1321,24 @@
             "resource_link": []
         },
         {
+            "name": "密教模拟器-密教成就",
+            "version": "1",
+            "version_code": 1,
+            "desc": "包含密教模拟器中的成就。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E6%88%90%E5%B0%B1.json",
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E6%88%90%E5%B0%B1.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E6%88%90%E5%B0%B1.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E6%88%90%E5%B0%B1.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E6%88%90%E5%B0%B1.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/密教模拟器-密教成就.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "密教模拟器-密教文献",
             "version": "1",
             "version_code": 1,
@@ -1351,6 +1351,24 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E6%96%87%E7%8C%AE.json"
             ],
             "path": "deck/lunzhiPenxil/classic/密教模拟器-密教文献.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "密教模拟器-密教结局",
+            "version": "1",
+            "version_code": 1,
+            "desc": "包含密教模拟器中的结局。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E7%BB%93%E5%B1%80.json",
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E7%BB%93%E5%B1%80.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E7%BB%93%E5%B1%80.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E7%BB%93%E5%B1%80.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E5%AF%86%E6%95%99%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%86%E6%95%99%E7%BB%93%E5%B1%80.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/密教模拟器-密教结局.json",
             "author": "lunzhiPenxil",
             "type": "deck",
             "sub_type": "classic",
