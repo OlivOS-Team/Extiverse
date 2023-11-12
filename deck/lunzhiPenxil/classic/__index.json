@@ -108,17 +108,10 @@
             "密教模拟器-司辰（带图版）图包.zip"
         ]
     },
-    "密教模拟器-密教-合集最终版.json": {
-        "name": "密教模拟器-合集最终版",
-        "version": "1",
-        "version_code": 1,
-        "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物。",
-        "author": "lunzhiPenxil"
-    },
     "密教模拟器-密教合集.json": {
         "name": "密教模拟器-合集",
-        "version": "1",
-        "version_code": 1,
+        "version": "20231112001",
+        "version_code": 3,
         "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物。",
         "author": "lunzhiPenxil"
     },
@@ -176,6 +169,13 @@
         "version": "1",
         "version_code": 1,
         "desc": "包含密教模拟器中的成就。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教结局.json": {
+        "name": "密教模拟器-密教结局",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中的结局。",
         "author": "lunzhiPenxil"
     },
     "阳炎计划-阳炎(歌曲-人物).json": {
