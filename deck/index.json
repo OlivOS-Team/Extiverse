@@ -2882,6 +2882,24 @@
             "resource_link": []
         },
         {
+            "name": "赵言赵语",
+            "version": "1.0.0",
+            "version_code": 1,
+            "desc": "赵怡然的经典冷嘲热讽语录，在违反“【提问前必看】当我们想要提问时如何让自己看起来没那么愚蠢”时（https://forum.olivos.run/d/394），赵怡然可能会认为你很愚蠢，将会受到相关语录的攻击",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json",
+                "https://api.oliva.icu/extiverse/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json"
+            ],
+            "path": "deck/赵怡然/classic/赵言赵语牌堆文件.json",
+            "author": "赵怡然",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "超特么不齐全的饮料机",
             "version": "1",
             "version_code": 1,
