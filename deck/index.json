@@ -435,6 +435,24 @@
             "resource_link": []
         },
         {
+            "name": "万象无常牌带卡图版",
+            "version": "v0.3",
+            "version_code": 3,
+            "desc": "带卡图的万象无常牌堆，图是从5etools偷的。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json"
+            ],
+            "path": "deck/上天入地独孤剑/classic/万象无常牌带卡图版.json",
+            "author": "上天入地独孤剑",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "中二称号生成",
             "version": "1",
             "version_code": 1,
