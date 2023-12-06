@@ -5,5 +5,41 @@
         "version_code": 1,
         "desc": "随机生成一只FF14中的拉拉菲尔族",
         "author": "哦哦君"
+    },
+    "村规": {
+        "name": "村规",
+        "version": "20231206",
+        "version_code": 1,
+        "desc": "集思广益的牌堆数据来源于各大傻逼群聊。",
+        "author": "哦哦君"
+    },
+    "东方符卡.json": {
+        "name": "东方符卡",
+        "version": "20231206",
+        "version_code": 1,
+        "desc": "数据牌堆来源于THBwiki。",
+        "author": "哦哦君"
+    },
+    "方舟人物.json": {
+        "name": "方舟人物",
+        "version": "20231206",
+        "version_code": 1,
+        "desc": "数据牌堆来源于明日方舟手机游戏。",
+        "author": "哦哦君"
+    },
+    "混血种人物.json": {
+        "name": "混血种人物",
+        "version": "20231206",
+        "version_code": 1,
+        "desc": "生成一个龙族TRPG中的混血种角色。",
+        "author": "哦哦君"
+    },
+    "战术人形&战术妖精.json": {
+        "name": "战术人形/妖精",
+        "version": "20231206",
+        "version_code": 1,
+        "desc": "生成一个少女前线手机游戏中的人形或妖精角色。",
+        "author": "哦哦君"
     }
+    
 }
