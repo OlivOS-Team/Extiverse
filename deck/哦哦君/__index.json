@@ -1,7 +1,9 @@
 {
-    "万象无常牌带卡图版.json": {
-        "version": "v0.3",
-        "version_code": 3,
-        "desc": "带卡图的万象无常牌堆，图是从5etools偷的。"
+    "随机拉拉肥.json": {
+        "name": "随机拉拉肥",
+        "version": "20231206",
+        "version_code": 1,
+        "desc": "随机生成一只FF14中的拉拉菲尔族",
+        "author": "哦哦君"
     }
 }
