@@ -70,6 +70,7 @@ def file_name(file_dir):
     for root,dirs,files in os.walk(file_dir):
         for file in files:
             res.append(os.path.join(root.lstrip(file_dir), file))
+    res.sort(key=lambda x: x)
     return res
 
 if __name__ == '__main__':
