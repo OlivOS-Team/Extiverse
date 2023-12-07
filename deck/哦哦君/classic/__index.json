@@ -34,11 +34,18 @@
         "desc": "生成一个龙族TRPG中的混血种角色。",
         "author": "哦哦君"
     },
-    "战术人形&战术妖精.json": {
+    "战术人形.json": {
         "name": "战术人形/妖精",
         "version": "20231206",
         "version_code": 1,
-        "desc": "生成一个少女前线手机游戏中的人形或妖精角色。",
+        "desc": "生成一个少女前线手机游戏中的战术人形。",
+        "author": "哦哦君"
+    },
+    "战术妖精.json": {
+        "name": "战术人形/妖精",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "生成一个少女前线手机游戏中的战术妖精。",
         "author": "哦哦君"
     },
     "异想体生成.json": {
@@ -47,7 +54,55 @@
         "version_code": 1,
         "desc": "生成一个脑叶公司里面的异想体。",
         "author": "哦哦君"
+    },
+    "包饺子.json": {
+        "name": "包饺子",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "过年了该包饺子了。",
+        "author": "哦哦君"
+    },
+    "东方归言录.json": {
+        "name": "归言录人物",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "生成一个东方归言录的人物。",
+        "author": "哦哦君"
+    },
+    "休闲娱乐.json": {
+        "name": "大保健",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "忽然发现每次去都没有看项目有什么都是直接说多少钱多久。",
+        "author": "哦哦君"
+    },
+    "雪糕.json": {
+        "name": "雪糕",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "生成一份雪糕。",
+        "author": "哦哦君"
+    },
+    "爽哥语录.json": {
+        "name": "爽哥语录",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "摸了。",
+        "author": "哦哦君"
+    },
+    "KFC.json": {
+        "name": "雪糕",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "生成一份kfc。",
+        "author": "哦哦君"
+    },
+    "KPC欢乐餐厅.json": {
+        "name": "kpc",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "当初应该没有后续欢乐餐厅这几个字的。",
+        "author": "哦哦君"
     }
-    
     
 }
