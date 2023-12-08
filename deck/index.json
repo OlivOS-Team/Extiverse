@@ -238,8 +238,8 @@
         },
         {
             "name": "LCB提取",
-            "version": "20231112",
-            "version_code": 2,
+            "version": "20231119",
+            "version_code": 3,
             "desc": "游戏边狱巴士公司的常驻池抽卡模拟。",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/luanhuanchun/classic/LCB%E6%8F%90%E5%8F%96%28%E5%B8%B8%E9%A9%BB%E6%B1%A0%29.json",
@@ -363,6 +363,24 @@
             "resource_link": []
         },
         {
+            "name": "kpc",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "当初应该没有后续欢乐餐厅这几个字的。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC%E6%AC%A2%E4%B9%90%E9%A4%90%E5%8E%85.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC%E6%AC%A2%E4%B9%90%E9%A4%90%E5%8E%85.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC%E6%AC%A2%E4%B9%90%E9%A4%90%E5%8E%85.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC%E6%AC%A2%E4%B9%90%E9%A4%90%E5%8E%85.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC%E6%AC%A2%E4%B9%90%E9%A4%90%E5%8E%85.json"
+            ],
+            "path": "deck/哦哦君/classic/KPC欢乐餐厅.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "v家推荐",
             "version": "1",
             "version_code": 1,
@@ -430,6 +448,42 @@
             ],
             "path": "deck/于言诺/classic/万圣糖果-于言诺.json",
             "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "万象无常牌带卡图版",
+            "version": "v0.3",
+            "version_code": 3,
+            "desc": "带卡图的万象无常牌堆，图是从5etools偷的。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json",
+                "https://api.oliva.icu/extiverse/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E4%B8%8A%E5%A4%A9%E5%85%A5%E5%9C%B0%E7%8B%AC%E5%AD%A4%E5%89%91/classic/%E4%B8%87%E8%B1%A1%E6%97%A0%E5%B8%B8%E7%89%8C%E5%B8%A6%E5%8D%A1%E5%9B%BE%E7%89%88.json"
+            ],
+            "path": "deck/上天入地独孤剑/classic/万象无常牌带卡图版.json",
+            "author": "上天入地独孤剑",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "东方符卡",
+            "version": "20231206",
+            "version_code": 1,
+            "desc": "数据牌堆来源于THBwiki。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1.json"
+            ],
+            "path": "deck/哦哦君/classic/东方符卡.json",
+            "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -777,6 +831,24 @@
             "resource_link": []
         },
         {
+            "name": "包饺子",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "过年了该包饺子了。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%8C%85%E9%A5%BA%E5%AD%90.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%8C%85%E9%A5%BA%E5%AD%90.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%8C%85%E9%A5%BA%E5%AD%90.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%8C%85%E9%A5%BA%E5%AD%90.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%8C%85%E9%A5%BA%E5%AD%90.json"
+            ],
+            "path": "deck/哦哦君/classic/包饺子.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "卢恩符文-于言诺",
             "version": "1",
             "version_code": 1,
@@ -916,6 +988,24 @@
             ],
             "path": "deck/akashic4869/classic/地图板块-房间板块.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "大保健",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "忽然发现每次去都没有看项目有什么都是直接说多少钱多久。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90.json"
+            ],
+            "path": "deck/哦哦君/classic/休闲娱乐.json",
+            "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1452,6 +1542,24 @@
             ]
         },
         {
+            "name": "异想体生成",
+            "version": "20231206",
+            "version_code": 1,
+            "desc": "生成一个脑叶公司里面的异想体。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%BC%82%E6%83%B3%E4%BD%93%E7%94%9F%E6%88%90.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%BC%82%E6%83%B3%E4%BD%93%E7%94%9F%E6%88%90.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%BC%82%E6%83%B3%E4%BD%93%E7%94%9F%E6%88%90.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%BC%82%E6%83%B3%E4%BD%93%E7%94%9F%E6%88%90.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%BC%82%E6%83%B3%E4%BD%93%E7%94%9F%E6%88%90.json"
+            ],
+            "path": "deck/哦哦君/classic/异想体生成.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "弹丸论破V1.2",
             "version": "1",
             "version_code": 1,
@@ -1465,6 +1573,24 @@
             ],
             "path": "deck/akashic4869/classic/弹丸论破V1.2.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "归言录人物",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "生成一个东方归言录的人物。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E5%BD%92%E8%A8%80%E5%BD%95.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E5%BD%92%E8%A8%80%E5%BD%95.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E5%BD%92%E8%A8%80%E5%BD%95.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E5%BD%92%E8%A8%80%E5%BD%95.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%B8%9C%E6%96%B9%E5%BD%92%E8%A8%80%E5%BD%95.json"
+            ],
+            "path": "deck/哦哦君/classic/东方归言录.json",
+            "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1537,6 +1663,42 @@
             ],
             "path": "deck/易久/classic/战双帕弥什（创绘映想版本）.json",
             "author": "易久",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "战术人形/妖精",
+            "version": "20231206",
+            "version_code": 1,
+            "desc": "生成一个少女前线手机游戏中的战术人形。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json"
+            ],
+            "path": "deck/哦哦君/classic/战术人形.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "战术人形/妖精",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "生成一个少女前线手机游戏中的战术妖精。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E5%A6%96%E7%B2%BE.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E5%A6%96%E7%B2%BE.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E5%A6%96%E7%B2%BE.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E5%A6%96%E7%B2%BE.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E5%A6%96%E7%B2%BE.json"
+            ],
+            "path": "deck/哦哦君/classic/战术妖精.json",
+            "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1663,6 +1825,24 @@
             ],
             "path": "deck/akashic4869/classic/攻受测试-半成品.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "方舟人物",
+            "version": "20231206",
+            "version_code": 1,
+            "desc": "数据牌堆来源于明日方舟手机游戏。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%96%B9%E8%88%9F%E4%BA%BA%E7%89%A9.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%96%B9%E8%88%9F%E4%BA%BA%E7%89%A9.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%96%B9%E8%88%9F%E4%BA%BA%E7%89%A9.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%96%B9%E8%88%9F%E4%BA%BA%E7%89%A9.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%96%B9%E8%88%9F%E4%BA%BA%E7%89%A9.json"
+            ],
+            "path": "deck/哦哦君/classic/方舟人物.json",
+            "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -1956,6 +2136,24 @@
             "resource_link": []
         },
         {
+            "name": "村规",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%9D%91%E8%A7%84.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%9D%91%E8%A7%84.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%9D%91%E8%A7%84.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%9D%91%E8%A7%84.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%9D%91%E8%A7%84.json"
+            ],
+            "path": "deck/哦哦君/classic/村规.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "植物七种-于言诺",
             "version": "1",
             "version_code": 1,
@@ -2210,6 +2408,24 @@
             "resource_link": []
         },
         {
+            "name": "混血种人物",
+            "version": "20231206",
+            "version_code": 1,
+            "desc": "生成一个龙族TRPG中的混血种角色。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%B7%B7%E8%A1%80%E7%A7%8D%E4%BA%BA%E7%89%A9.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%B7%B7%E8%A1%80%E7%A7%8D%E4%BA%BA%E7%89%A9.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%B7%B7%E8%A1%80%E7%A7%8D%E4%BA%BA%E7%89%A9.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%B7%B7%E8%A1%80%E7%A7%8D%E4%BA%BA%E7%89%A9.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%B7%B7%E8%A1%80%E7%A7%8D%E4%BA%BA%E7%89%A9.json"
+            ],
+            "path": "deck/哦哦君/classic/混血种人物.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "游戏王卡制作",
             "version": "1",
             "version_code": 1,
@@ -2259,6 +2475,24 @@
             ],
             "path": "deck/akashic4869/classic/炉石传说-经典卡包-概率重构.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "爽哥语录",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "摸了。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E7%88%BD%E5%93%A5%E8%AF%AD%E5%BD%95.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E7%88%BD%E5%93%A5%E8%AF%AD%E5%BD%95.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E7%88%BD%E5%93%A5%E8%AF%AD%E5%BD%95.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E7%88%BD%E5%93%A5%E8%AF%AD%E5%BD%95.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E7%88%BD%E5%93%A5%E8%AF%AD%E5%BD%95.json"
+            ],
+            "path": "deck/哦哦君/classic/爽哥语录.json",
+            "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
@@ -2882,6 +3116,24 @@
             "resource_link": []
         },
         {
+            "name": "赵言赵语",
+            "version": "1.0.0",
+            "version_code": 1,
+            "desc": "赵怡然的经典冷嘲热讽语录，在违反“【提问前必看】当我们想要提问时如何让自己看起来没那么愚蠢”时（https://forum.olivos.run/d/394），赵怡然可能会认为你很愚蠢，将会受到相关语录的攻击",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json",
+                "https://api.oliva.icu/extiverse/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E8%B5%B5%E8%A8%80%E8%B5%B5%E8%AF%AD%E7%89%8C%E5%A0%86%E6%96%87%E4%BB%B6.json"
+            ],
+            "path": "deck/赵怡然/classic/赵言赵语牌堆文件.json",
+            "author": "赵怡然",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "超特么不齐全的饮料机",
             "version": "1",
             "version_code": 1,
@@ -3116,6 +3368,24 @@
             "resource_link": []
         },
         {
+            "name": "随机拉拉肥",
+            "version": "20231206",
+            "version_code": 1,
+            "desc": "随机生成一只FF14中的拉拉菲尔族",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9A%8F%E6%9C%BA%E6%8B%89%E6%8B%89%E8%82%A5.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9A%8F%E6%9C%BA%E6%8B%89%E6%8B%89%E8%82%A5.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9A%8F%E6%9C%BA%E6%8B%89%E6%8B%89%E8%82%A5.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9A%8F%E6%9C%BA%E6%8B%89%E6%8B%89%E8%82%A5.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9A%8F%E6%9C%BA%E6%8B%89%E6%8B%89%E8%82%A5.json"
+            ],
+            "path": "deck/哦哦君/classic/随机拉拉肥.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "随机猫娘",
             "version": "1",
             "version_code": 1,
@@ -3165,6 +3435,42 @@
             ],
             "path": "deck/于言诺/classic/随机菜品-于言诺.json",
             "author": "于言诺",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "雪糕",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "生成一份雪糕。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json"
+            ],
+            "path": "deck/哦哦君/classic/雪糕.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "雪糕",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "生成一份kfc。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KFC.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KFC.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KFC.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KFC.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KFC.json"
+            ],
+            "path": "deck/哦哦君/classic/KFC.json",
+            "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
