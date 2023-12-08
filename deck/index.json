@@ -3062,6 +3062,24 @@
             "resource_link": []
         },
         {
+            "name": "西幻同人角色生成",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E8%99%8E%E7%89%99%E9%93%81%E9%B1%BC/classic/%E8%A5%BF%E5%B9%BB%E5%90%8C%E4%BA%BA%E8%A7%92%E8%89%B2%E7%94%9F%E6%88%90.json",
+                "https://api.oliva.icu/extiverse/deck/%E8%99%8E%E7%89%99%E9%93%81%E9%B1%BC/classic/%E8%A5%BF%E5%B9%BB%E5%90%8C%E4%BA%BA%E8%A7%92%E8%89%B2%E7%94%9F%E6%88%90.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E8%99%8E%E7%89%99%E9%93%81%E9%B1%BC/classic/%E8%A5%BF%E5%B9%BB%E5%90%8C%E4%BA%BA%E8%A7%92%E8%89%B2%E7%94%9F%E6%88%90.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E8%99%8E%E7%89%99%E9%93%81%E9%B1%BC/classic/%E8%A5%BF%E5%B9%BB%E5%90%8C%E4%BA%BA%E8%A7%92%E8%89%B2%E7%94%9F%E6%88%90.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E8%99%8E%E7%89%99%E9%93%81%E9%B1%BC/classic/%E8%A5%BF%E5%B9%BB%E5%90%8C%E4%BA%BA%E8%A7%92%E8%89%B2%E7%94%9F%E6%88%90.json"
+            ],
+            "path": "deck/虎牙铁鱼/classic/西幻同人角色生成.json",
+            "author": "虎牙铁鱼",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "西游记",
             "version": "1",
             "version_code": 1,
