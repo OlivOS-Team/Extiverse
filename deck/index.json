@@ -1669,24 +1669,6 @@
         },
         {
             "name": "战术人形/妖精",
-            "version": "20231206",
-            "version_code": 1,
-            "desc": "生成一个少女前线手机游戏中的战术人形。",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
-                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json"
-            ],
-            "path": "deck/哦哦君/classic/战术人形.json",
-            "author": "哦哦君",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
-            "name": "战术人形/妖精",
             "version": "20231207",
             "version_code": 1,
             "desc": "生成一个少女前线手机游戏中的战术妖精。",
@@ -1698,6 +1680,24 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E5%A6%96%E7%B2%BE.json"
             ],
             "path": "deck/哦哦君/classic/战术妖精.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "战术人形/妖精",
+            "version": "20231206",
+            "version_code": 1,
+            "desc": "生成一个少女前线手机游戏中的战术人形。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E6%88%98%E6%9C%AF%E4%BA%BA%E5%BD%A2.json"
+            ],
+            "path": "deck/哦哦君/classic/战术人形.json",
             "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
@@ -3461,24 +3461,6 @@
             "name": "雪糕",
             "version": "20231207",
             "version_code": 1,
-            "desc": "生成一份雪糕。",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
-                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json"
-            ],
-            "path": "deck/哦哦君/classic/雪糕.json",
-            "author": "哦哦君",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
-            "name": "雪糕",
-            "version": "20231207",
-            "version_code": 1,
             "desc": "生成一份kfc。",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KFC.json",
@@ -3488,6 +3470,24 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KFC.json"
             ],
             "path": "deck/哦哦君/classic/KFC.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "雪糕",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "生成一份雪糕。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%9B%AA%E7%B3%95.json"
+            ],
+            "path": "deck/哦哦君/classic/雪糕.json",
             "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
