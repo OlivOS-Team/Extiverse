@@ -35,14 +35,14 @@
         "author": "哦哦君"
     },
     "战术人形.json": {
-        "name": "战术人形/妖精",
+        "name": "战术人形",
         "version": "20231206",
         "version_code": 1,
         "desc": "生成一个少女前线手机游戏中的战术人形。",
         "author": "哦哦君"
     },
     "战术妖精.json": {
-        "name": "战术人形/妖精",
+        "name": "战术妖精",
         "version": "20231207",
         "version_code": 1,
         "desc": "生成一个少女前线手机游戏中的战术妖精。",
@@ -69,7 +69,7 @@
         "desc": "生成一个东方归言录的人物。",
         "author": "哦哦君"
     },
-    "休闲娱乐.json": {
+    "大保健.json": {
         "name": "大保健",
         "version": "20231207",
         "version_code": 1,
@@ -91,18 +91,31 @@
         "author": "哦哦君"
     },
     "KFC.json": {
-        "name": "雪糕",
+        "name": "kfc",
         "version": "20231207",
         "version_code": 1,
         "desc": "生成一份kfc。",
         "author": "哦哦君"
     },
-    "KPC欢乐餐厅.json": {
+    "KPC.json": {
         "name": "kpc",
         "version": "20231207",
         "version_code": 1,
         "desc": "当初应该没有后续欢乐餐厅这几个字的。",
         "author": "哦哦君"
-    }
-    
+    },
+    "命运2武器.json": {
+        "name": "kpc",
+        "version": "20231207",
+        "version_code": 1,
+        "desc": "命运2创意工坊武器误。",
+        "author": "哦哦君"
+    },
+        "调酒.json": {
+            "name": "调酒",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "VA-11 Vall 的同人调酒捏他作品。",
+            "author": "哦哦君"
+        }        
 }
