@@ -238,8 +238,8 @@
         },
         {
             "name": "LCB提取",
-            "version": "20231119",
-            "version_code": 3,
+            "version": "20231217",
+            "version_code": 4,
             "desc": "游戏边狱巴士公司的常驻池抽卡模拟。",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/luanhuanchun/classic/LCB%E6%8F%90%E5%8F%96%28%E5%B8%B8%E9%A9%BB%E6%B1%A0%29.json",
