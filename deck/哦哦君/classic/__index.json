@@ -117,5 +117,12 @@
             "version_code": 1,
             "desc": "VA-11 Vall 的同人调酒捏他作品。",
             "author": "哦哦君"
-        }        
+        },
+    "今天打什么副本.json": {
+        "name": "今天打什么",
+        "version": "20231223",
+        "version_code": 1,
+        "desc": "给不知道今天打什么的傻逼群友写的。",
+        "author": "哦哦君"
+    }        
 }
