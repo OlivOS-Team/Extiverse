@@ -128,7 +128,7 @@ if __name__ == '__main__':
     print('releaseDeck done!')
 
     for typeName in dictCount:
-        str_this = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="20" role="img" aria-label="JSON">
+        str_this = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="20" role="img" aria-label="JSON">
 	<title>test: test</title>
 	<linearGradient id="s" x2="0" y2="100%">
 		<stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
@@ -139,8 +139,8 @@ if __name__ == '__main__':
 	</clipPath>
 	<g clip-path="url(#r)">
 		<rect width="40" height="20" fill="#555"/>
-		<rect x="40" width="130" height="20" fill="#007ec6"/>
-		<rect width="130" height="20" fill="url(#s)"/>
+		<rect x="40" width="40" height="20" fill="#007ec6"/>
+		<rect width="80" height="20" fill="url(#s)"/>
 	</g>
 	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 		<text aria-hidden="true" x="210" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="">{dictMappping.get(typeName, "N/A")}</text>
@@ -150,7 +150,7 @@ if __name__ == '__main__':
 	</g>
 </svg>
 '''
-        with open(f'../target/deck/{typeName}.svg', 'w', encoding='utf-8') as f:
+        with open(f'../script/{typeName}.svg', 'w', encoding='utf-8') as f:
             f.write(str_this)
 
     print('releaseSvg done!')

@@ -1,6 +1,8 @@
 # 扩展市场
 
-![json](./script/JSON.svg)
+![classic](./script/classic.svg)
+![yaml](./script/yaml.svg)
+![excel](./script/excel.svg)
 
 本仓库用于供应扩展文件内容和对应的接口
 
