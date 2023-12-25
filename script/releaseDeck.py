@@ -5,6 +5,17 @@ import shutil
 from urllib import parse
 import codecs
 
+dictMappping = {
+    'classic': 'JSON',
+    'yaml': 'YAML',
+    'excel': 'XLSX'
+}
+
+dictCount = {
+    'classic': 0,
+    'yaml': 0,
+    'excel': 0
+}
 
 def formatUTF8WithBOM(data:bytes):
     res = data
@@ -115,3 +126,31 @@ if __name__ == '__main__':
         f.write(json.dumps(index_data, indent=4, ensure_ascii=False))
     shutil.copyfile('../target/deck/index.json', '../deck/index.json')
     print('releaseDeck done!')
+
+    for typeName in dictCount:
+        str_this = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="20" role="img" aria-label="JSON">
+	<title>test: test</title>
+	<linearGradient id="s" x2="0" y2="100%">
+		<stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+		<stop offset="1" stop-opacity=".1"/>
+	</linearGradient>
+	<clipPath id="r">
+		<rect width="80" height="20" rx="10" fill="#fff"/>
+	</clipPath>
+	<g clip-path="url(#r)">
+		<rect width="40" height="20" fill="#555"/>
+		<rect x="40" width="130" height="20" fill="#007ec6"/>
+		<rect width="130" height="20" fill="url(#s)"/>
+	</g>
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+		<text aria-hidden="true" x="210" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="">{dictMappping.get(typeName, "N/A")}</text>
+		<text x="210" y="140" transform="scale(.1)" fill="#fff" textLength="">{dictMappping.get(typeName, "N/A")}</text>
+		<text aria-hidden="true" x="580" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="">{dictCount.get(typeName, "N/A")}</text>
+		<text x="580" y="140" transform="scale(.1)" fill="#fff" textLength="">{dictCount.get(typeName, "N/A")}</text>
+	</g>
+</svg>
+'''
+        with open(f'../target/deck/{typeName}.svg', 'w', encoding='utf-8') as f:
+            f.write(str_this)
+
+    print('releaseSvg done!')

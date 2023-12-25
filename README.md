@@ -1,6 +1,6 @@
 # 扩展市场
 
-![json](./script/1.svg)
+![json](./script/JSON.svg)
 
 本仓库用于供应扩展文件内容和对应的接口
 
