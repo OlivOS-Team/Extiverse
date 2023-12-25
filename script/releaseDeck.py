@@ -36,6 +36,7 @@ if __name__ == '__main__':
             'yaml',
             'excel'
         ]:
+            count_this = 0
             index_data.setdefault(deck_type, [])
             meta_info_data = None
             file_dir_path = f'../deck/{deck_user_this}/{deck_type}/'
@@ -54,6 +55,7 @@ if __name__ == '__main__':
                 for deck_name_meta_this in deck_name_meta_list:
                     if deck_name_meta_this in deck_name_list:
                         deck_name_list.pop(deck_name_list.index(deck_name_meta_this))
+                count_this = len(deck_name_list)
                 for deck_name_this in deck_name_list:
                     file_deck_info_path = f'../deck/{deck_user_this}/{deck_type}/{deck_name_this}'
                     deck_name = deck_name_this
@@ -121,6 +123,7 @@ if __name__ == '__main__':
                     info_this_new.update(info_this)
                     index_data[deck_type].append(info_this_new)
             index_data[deck_type].sort(key=lambda x: x['name'])
+            dictCount[deck_type] = count_this
     os.makedirs('../target/deck/', exist_ok=True)
     with open('../target/deck/index.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(index_data, indent=4, ensure_ascii=False))
