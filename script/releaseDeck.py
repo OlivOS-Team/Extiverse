@@ -123,7 +123,7 @@ if __name__ == '__main__':
                     info_this_new.update(info_this)
                     index_data[deck_type].append(info_this_new)
             index_data[deck_type].sort(key=lambda x: x['name'])
-            dictCount[deck_type] = count_this
+            dictCount[deck_type] += count_this
     os.makedirs('../target/deck/', exist_ok=True)
     with open('../target/deck/index.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(index_data, indent=4, ensure_ascii=False))
