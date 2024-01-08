@@ -1,0 +1,23 @@
+{
+    "旅途模拟.json": {
+        "name": "旅途模拟",
+        "version": "1.2.6",
+        "version_code": 1,
+        "desc": "简单的西幻体验，请使用【.draw 旅途】抽取牌堆。",
+        "author": "圣歌计划"
+    },
+    "转生.json": {
+        "name": "转生",
+        "version": "0.9.1",
+        "version_code": 1,
+        "desc": "简单的转生异世界模板，请使用【.draw 重开】抽取牌堆。",
+        "author": "圣歌计划"
+    },
+    "风云再起.json": {
+        "name": "风云再起",
+        "version": "1.0",
+        "version_code": 1,
+        "desc": "有趣的武侠之旅，请使用【.draw 风云再起】抽取牌堆。",
+        "author": "圣歌计划"
+    }
+}
