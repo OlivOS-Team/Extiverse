@@ -2624,6 +2624,24 @@
             "resource_link": []
         },
         {
+            "name": "猫骰",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E7%A0%8D%E4%B8%AA%E9%B9%BF/classic/%E7%8C%AB%E9%AA%B0.json",
+                "https://api.oliva.icu/extiverse/deck/%E7%A0%8D%E4%B8%AA%E9%B9%BF/classic/%E7%8C%AB%E9%AA%B0.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E7%A0%8D%E4%B8%AA%E9%B9%BF/classic/%E7%8C%AB%E9%AA%B0.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E7%A0%8D%E4%B8%AA%E9%B9%BF/classic/%E7%8C%AB%E9%AA%B0.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E7%A0%8D%E4%B8%AA%E9%B9%BF/classic/%E7%8C%AB%E9%AA%B0.json"
+            ],
+            "path": "deck/砍个鹿/classic/猫骰.json",
+            "author": "砍个鹿",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "生日抽取",
             "version": "20230514",
             "version_code": 2,
