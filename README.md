@@ -73,20 +73,46 @@
 
 ### 登录
 要在`Github`上进行操作，你首先要拥有一个账号，你可以在网站的右上角进行注册后  
+
 ![image](https://github.com/OlivOS-Team/Extiverse/assets/26300331/f207650c-e686-4a87-9c5e-8abb56ef93e6)  
+
 使用该账号登录。  
 
 ### 分支仓库
 由于你并没有直接修改本仓库的权限，所以在进行修改前，你需要在你的账号名下基于本仓库创建一个分支仓库，这是一个内容与本仓库当前版本完全一致的仓库，并且会标记出分支的来源，这个仓库将是一个你真正可以随意修改的仓库。  
 要创建一个分支仓库，你只需要点击右上角的`Fork`  
+
 ![image](https://github.com/OlivOS-Team/Extiverse/assets/26300331/7bb70dba-41e8-4f13-8577-26ac674801bc)  
+
 随后你就可以开始分支流程，并最终跳转到你创建的仓库。
 
 ### 修改分支
 此时你就可以对自己的分支仓库进行修改了，修改也可以以多种方式进行，你可以直接在网页上对文件进行修改，或创建和删除文件，你也可以使用`Github Desktop`来将文件克隆至本地，然后直接在本地进行修改。  
 修改后，你可以在自己的分支仓库看到`Open Pull Request`的按钮  
+
 ![image](https://github.com/OlivOS-Team/Extiverse/assets/26300331/8f12ca38-72c8-455f-8c83-2f542cc495e8)  
+
 点击它，你就可以开启`拉取请求`的流程，它最终会被提交给我们，我们进行合并后，你的修改就会自动的在扩展市场中生效了。  
+
+#### 使用 CodeSpace 进行修改
+除此之外，在你的分支仓库中，你还能使用`CodeSpace`一次性完成诸如创建文件，创建文件夹等一系列操作，对于不熟悉`Github`的用户可以考虑尝试。  
+
+![image](https://github.com/lunzhiPenxil/Extiverse/assets/26300331/d910d588-80c0-4eab-9e75-7f485124eebe)
+
+如上，点击后可以进入一个可以进行直观操作的网络文本编辑器其中你要注意的是左侧的`文件浏览器`与`Git版本管理器`  
+
+![image](https://github.com/lunzhiPenxil/Extiverse/assets/26300331/e7eb0756-e52e-456f-a48c-cf54bbd4c144)
+
+你可以通过右键菜单创建文件夹和文件  
+
+![image](https://github.com/lunzhiPenxil/Extiverse/assets/26300331/f31a3ed8-9f8d-4f05-b367-5d245a686979)
+
+创建完成后，可以直接在这个页面进行提交，随后，可以在原先的`Github`页面按照上文开启`拉取请求`的流程
+
+![image](https://github.com/lunzhiPenxil/Extiverse/assets/26300331/c9f836d0-df65-429a-a230-3381f795e25d)
+
+
+
 
 ## 收录准则
 会选择性作者自主上传至互联网的扩展文件，会优先联系作者本人。如果作者本人处于失联状态，且如果被分享的文件在发布时声明了遵守 CC-BY-NC-SA-4.0 或是其兼容的更宽松协议，则会在注明出处的前提下进行分享，并保留作者的驳回权利。
