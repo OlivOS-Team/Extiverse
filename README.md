@@ -88,5 +88,18 @@
 ![image](https://github.com/OlivOS-Team/Extiverse/assets/26300331/8f12ca38-72c8-455f-8c83-2f542cc495e8)  
 点击它，你就可以开启`拉取请求`的流程，它最终会被提交给我们，我们进行合并后，你的修改就会自动的在扩展市场中生效了。  
 
+#### 使用 CodeSpace 进行修改
+除此之外，在你的分支仓库中，你还能使用`CodeSpace`一次性完成诸如创建文件，创建文件夹等一系列操作，对于不熟悉`Github`的用户可以考虑尝试。  
+![image](https://github.com/lunzhiPenxil/Extiverse/assets/26300331/d910d588-80c0-4eab-9e75-7f485124eebe)
+如上，点击后可以进入一个可以进行直观操作的网络文本编辑器其中你要注意的是左侧的`文件浏览器`与`Git版本管理器`  
+![image](https://github.com/lunzhiPenxil/Extiverse/assets/26300331/e7eb0756-e52e-456f-a48c-cf54bbd4c144)
+你可以通过右键菜单创建文件夹和文件  
+![image](https://github.com/lunzhiPenxil/Extiverse/assets/26300331/f31a3ed8-9f8d-4f05-b367-5d245a686979)
+创建完成后，可以直接在这个页面进行提交，随后，可以在原先的`Github`页面按照上文开启`拉取请求`的流程
+![image](https://github.com/lunzhiPenxil/Extiverse/assets/26300331/c9f836d0-df65-429a-a230-3381f795e25d)
+
+
+
+
 ## 收录准则
 会选择性作者自主上传至互联网的扩展文件，会优先联系作者本人。如果作者本人处于失联状态，且如果被分享的文件在发布时声明了遵守 CC-BY-NC-SA-4.0 或是其兼容的更宽松协议，则会在注明出处的前提下进行分享，并保留作者的驳回权利。
