@@ -651,6 +651,24 @@
             "resource_link": []
         },
         {
+            "name": "今天打什么",
+            "version": "20231223",
+            "version_code": 1,
+            "desc": "给不知道今天打什么的傻逼群友写的。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BB%8A%E5%A4%A9%E6%89%93%E4%BB%80%E4%B9%88%E5%89%AF%E6%9C%AC.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BB%8A%E5%A4%A9%E6%89%93%E4%BB%80%E4%B9%88%E5%89%AF%E6%9C%AC.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BB%8A%E5%A4%A9%E6%89%93%E4%BB%80%E4%B9%88%E5%89%AF%E6%9C%AC.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BB%8A%E5%A4%A9%E6%89%93%E4%BB%80%E4%B9%88%E5%89%AF%E6%9C%AC.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E4%BB%8A%E5%A4%A9%E6%89%93%E4%BB%80%E4%B9%88%E5%89%AF%E6%9C%AC.json"
+            ],
+            "path": "deck/哦哦君/classic/今天打什么副本.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "今日玄学",
             "version": "1",
             "version_code": 1,
@@ -2826,6 +2844,24 @@
             "resource_link": []
         },
         {
+            "name": "老黄历",
+            "version": "20240101",
+            "version_code": 1,
+            "desc": "一个相对于本格的老黄历但是是随机组合。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E8%80%81%E9%BB%84%E5%8E%86.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E8%80%81%E9%BB%84%E5%8E%86.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E8%80%81%E9%BB%84%E5%8E%86.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E8%80%81%E9%BB%84%E5%8E%86.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E8%80%81%E9%BB%84%E5%8E%86.json"
+            ],
+            "path": "deck/哦哦君/classic/老黄历.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "考研单词-于言诺",
             "version": "1",
             "version_code": 1,
@@ -3765,6 +3801,24 @@
             ],
             "path": "deck/akashic4869/classic/麻将对局.json",
             "author": "akashic4869",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "黄历",
+            "version": "20240101",
+            "version_code": 1,
+            "desc": "去除了骰喵的私货增加了很多的历史事件。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%BB%84%E5%8E%86.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%BB%84%E5%8E%86.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%BB%84%E5%8E%86.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%BB%84%E5%8E%86.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E9%BB%84%E5%8E%86.json"
+            ],
+            "path": "deck/哦哦君/classic/黄历.json",
+            "author": "哦哦君改自骰喵",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
