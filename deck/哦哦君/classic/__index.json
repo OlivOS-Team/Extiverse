@@ -111,11 +111,32 @@
         "desc": "命运2创意工坊武器误。",
         "author": "哦哦君"
     },
-        "调酒.json": {
-            "name": "调酒",
-            "version": "20231207",
-            "version_code": 1,
-            "desc": "VA-11 Vall 的同人调酒捏他作品。",
-            "author": "哦哦君"
-        }        
+    "调酒.json": {
+         "name": "调酒",
+        "version": "20231207",
+        "version_code": 1,
+         "desc": "VA-11 Vall 的同人调酒捏他作品。",
+        "author": "哦哦君"
+    },
+    "今天打什么副本.json": {
+        "name": "今天打什么",
+        "version": "20231223",
+        "version_code": 1,
+        "desc": "给不知道今天打什么的傻逼群友写的。",
+        "author": "哦哦君"
+    },
+    "黄历.json": {
+        "name": "黄历",
+        "version": "20240101",
+        "version_code": 1,
+        "desc": "去除了骰喵的私货增加了很多的历史事件。",
+        "author": "哦哦君改自骰喵"
+    },
+    "老黄历.json": {
+        "name": "老黄历",
+        "version": "20240101",
+        "version_code": 1,
+        "desc": "一个相对于本格的老黄历但是是随机组合。",
+        "author": "哦哦君"
+    }            
 }
