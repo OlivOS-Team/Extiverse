@@ -216,5 +216,12 @@
         "version_code": 1,
         "desc": "包含了一套UNO卡牌",
         "author": "lunzhiPenxil"
+    },
+    "达尔文奖.json": {
+        "name": "达尔文奖",
+        "version": "20240111001",
+        "version_code": 1,
+        "desc": "紀念那些「蠢死的人」的獎項，名稱來自「演化論之父」查爾斯·羅伯特·達爾文（Charles Robert Darwin），得獎者們消滅了自己的愚蠢基因而對人類的演化做出「貢獻」。",
+        "author": "lunzhiPenxil"
     }
 }
