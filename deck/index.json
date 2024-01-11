@@ -3350,6 +3350,24 @@
             "resource_link": []
         },
         {
+            "name": "达尔文奖",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E8%BE%BE%E5%B0%94%E6%96%87%E5%A5%96.json",
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%BE%BE%E5%B0%94%E6%96%87%E5%A5%96.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%BE%BE%E5%B0%94%E6%96%87%E5%A5%96.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%BE%BE%E5%B0%94%E6%96%87%E5%A5%96.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%BE%BE%E5%B0%94%E6%96%87%E5%A5%96.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/达尔文奖.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "遇见老婆那一天",
             "version": "1",
             "version_code": 1,
