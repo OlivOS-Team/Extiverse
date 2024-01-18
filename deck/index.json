@@ -3566,6 +3566,24 @@
             "resource_link": []
         },
         {
+            "name": "随机武器",
+            "version": "201401",
+            "version_code": 1,
+            "desc": "喷射战士3随机武器，全部采用官方译名",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/willkyu/classic/%E9%9A%8F%E6%9C%BA%E6%AD%A6%E5%99%A8.json",
+                "https://api.oliva.icu/extiverse/deck/willkyu/classic/%E9%9A%8F%E6%9C%BA%E6%AD%A6%E5%99%A8.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/willkyu/classic/%E9%9A%8F%E6%9C%BA%E6%AD%A6%E5%99%A8.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/willkyu/classic/%E9%9A%8F%E6%9C%BA%E6%AD%A6%E5%99%A8.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/willkyu/classic/%E9%9A%8F%E6%9C%BA%E6%AD%A6%E5%99%A8.json"
+            ],
+            "path": "deck/willkyu/classic/随机武器.json",
+            "author": "willkyu",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "随机猫娘",
             "version": "1",
             "version_code": 1,
