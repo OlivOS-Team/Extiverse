@@ -1,8 +1,8 @@
 {
     "随机武器.json": {
         "name": "随机武器",
-        "version": "201401",
-        "version_code": 1,
+        "version": "202401",
+        "version_code": 2,
         "desc": "喷射战士3随机武器，全部采用官方译名",
         "author": "willkyu"
     }
