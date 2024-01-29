@@ -3585,8 +3585,8 @@
         },
         {
             "name": "随机武器",
-            "version": "201401",
-            "version_code": 1,
+            "version": "202401",
+            "version_code": 2,
             "desc": "喷射战士3随机武器，全部采用官方译名",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/willkyu/classic/%E9%9A%8F%E6%9C%BA%E6%AD%A6%E5%99%A8.json",
