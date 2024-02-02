@@ -3116,18 +3116,18 @@
             ]
         },
         {
-            "name": "英灵召唤0.85",
+            "name": "英灵召唤1.0",
             "version": "1",
             "version_code": 1,
             "desc": "",
             "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A40.85.json",
-                "https://api.oliva.icu/extiverse/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A40.85.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A40.85.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A40.85.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A40.85.json"
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A41.0.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A41.0.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A41.0.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A41.0.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%9C%A3%E6%AD%8C%E8%AE%A1%E5%88%92/classic/%E8%8B%B1%E7%81%B5%E5%8F%AC%E5%94%A41.0.json"
             ],
-            "path": "deck/圣歌计划/classic/英灵召唤0.85.json",
+            "path": "deck/圣歌计划/classic/英灵召唤1.0.json",
             "author": "圣歌计划",
             "type": "deck",
             "sub_type": "classic",
