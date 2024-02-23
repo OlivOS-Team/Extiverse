@@ -15,8 +15,8 @@
   },
   "LCB提取(常驻池).json":{
     "name":"LCB提取",
-    "version":"20240213",
-    "version_code":7,
+    "version":"20240223",
+    "version_code":8,
     "desc":"游戏边狱巴士公司的常驻池抽卡模拟。",
     "author":"滦浣春_6hc"
   }
