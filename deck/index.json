@@ -384,24 +384,6 @@
             "name": "kpc",
             "version": "20231207",
             "version_code": 1,
-            "desc": "当初应该没有后续欢乐餐厅这几个字的。",
-            "download_link": [
-                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json",
-                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json",
-                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json",
-                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json",
-                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json"
-            ],
-            "path": "deck/哦哦君/classic/KPC.json",
-            "author": "哦哦君",
-            "type": "deck",
-            "sub_type": "classic",
-            "resource_link": []
-        },
-        {
-            "name": "kpc",
-            "version": "20231207",
-            "version_code": 1,
             "desc": "命运2创意工坊武器误。",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%91%BD%E8%BF%902%E6%AD%A6%E5%99%A8.json",
@@ -411,6 +393,24 @@
                 "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/%E5%91%BD%E8%BF%902%E6%AD%A6%E5%99%A8.json"
             ],
             "path": "deck/哦哦君/classic/命运2武器.json",
+            "author": "哦哦君",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "kpc",
+            "version": "20231207",
+            "version_code": 1,
+            "desc": "当初应该没有后续欢乐餐厅这几个字的。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json",
+                "https://api.oliva.icu/extiverse/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E5%93%A6%E5%93%A6%E5%90%9B/classic/KPC.json"
+            ],
+            "path": "deck/哦哦君/classic/KPC.json",
             "author": "哦哦君",
             "type": "deck",
             "sub_type": "classic",
@@ -2457,6 +2457,24 @@
             ],
             "path": "deck/鸮申克的啾赎/classic/海王深情语录.json",
             "author": "鸮申克的啾赎",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
+            "name": "海豹结局",
+            "version": "1.0.0",
+            "version_code": 1,
+            "desc": "令人脑洞大开的海豹结局，集思广益，创造不一样的冒险经历。",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E6%B5%B7%E8%B1%B9%E7%BB%93%E5%B1%80.json",
+                "https://api.oliva.icu/extiverse/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E6%B5%B7%E8%B1%B9%E7%BB%93%E5%B1%80.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E6%B5%B7%E8%B1%B9%E7%BB%93%E5%B1%80.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E6%B5%B7%E8%B1%B9%E7%BB%93%E5%B1%80.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E8%B5%B5%E6%80%A1%E7%84%B6/classic/%E6%B5%B7%E8%B1%B9%E7%BB%93%E5%B1%80.json"
+            ],
+            "path": "deck/赵怡然/classic/海豹结局.json",
+            "author": "赵怡然",
             "type": "deck",
             "sub_type": "classic",
             "resource_link": []
