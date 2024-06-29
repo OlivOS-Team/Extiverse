@@ -3096,6 +3096,24 @@
             "resource_link": []
         },
         {
+            "name": "艾尔登法环-讯息",
+            "version": "1",
+            "version_code": 1,
+            "desc": "",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E8%AE%AF%E6%81%AF.json",
+                "https://api.oliva.icu/extiverse/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E8%AE%AF%E6%81%AF.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E8%AE%AF%E6%81%AF.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E8%AE%AF%E6%81%AF.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/lunzhiPenxil/classic/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E8%AE%AF%E6%81%AF.json"
+            ],
+            "path": "deck/lunzhiPenxil/classic/艾尔登法环-讯息.json",
+            "author": "lunzhiPenxil",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "花亦山",
             "version": "1",
             "version_code": 1,
