@@ -1,0 +1,9 @@
+{
+    "答案之书.json": {
+        "name": "答案之书",
+        "version": "1",
+        "version_code": 1,
+        "desc": "答案之书，文本由ai生成，建议配合程心牌堆前缀匹配食用",
+        "author": "chongguang"
+    }
+}
