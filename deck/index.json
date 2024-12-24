@@ -238,9 +238,9 @@
         },
         {
             "name": "LCB提取",
-            "version": "20241015",
-            "version_code": 12,
-            "desc": "游戏边狱巴士公司的常驻池抽卡模拟。",
+            "version": "20241223",
+            "version_code": 13,
+            "desc": "游戏边狱巴士公司的常驻池抽卡模拟。祝维导和辛克莱圣诞快乐诺姆",
             "download_link": [
                 "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/luanhuanchun/classic/LCB%E6%8F%90%E5%8F%96%28%E5%B8%B8%E9%A9%BB%E6%B1%A0%29.json",
                 "https://api.oliva.icu/extiverse/deck/luanhuanchun/classic/LCB%E6%8F%90%E5%8F%96%28%E5%B8%B8%E9%A9%BB%E6%B1%A0%29.json",
