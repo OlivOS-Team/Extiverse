@@ -35,7 +35,7 @@ jobs:
           python uploadDeckResourceCos.py ${{ secrets.EXTIVERSECOSSECRETID }} ${{ secrets.EXTIVERSECOSSECRETKEY }}
           cd ..
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Artifacts
           path: ./target/deck/index.json
