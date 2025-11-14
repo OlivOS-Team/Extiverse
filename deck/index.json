@@ -2534,6 +2534,24 @@
             "resource_link": []
         },
         {
+            "name": "满汉全席",
+            "version": "0.0.1",
+            "version_code": 1,
+            "desc": "一个包含了中华八大菜系大多数菜名的牌堆",
+            "download_link": [
+                "https://extiverse-1253866028.cos.ap-shanghai.myqcloud.com/deck/%E9%BB%91%E6%A1%83A/classic/%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD.json",
+                "https://api.oliva.icu/extiverse/deck/%E9%BB%91%E6%A1%83A/classic/%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD.json",
+                "https://fastly.jsdelivr.net/gh/OlivOS-Team/Extiverse@main/deck/%E9%BB%91%E6%A1%83A/classic/%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD.json",
+                "https://ghproxy.com/https://github.com/OlivOS-Team/Extiverse/blob/main/deck/%E9%BB%91%E6%A1%83A/classic/%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD.json",
+                "https://raw.githubusercontent.com/OlivOS-Team/Extiverse/main/deck/%E9%BB%91%E6%A1%83A/classic/%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD.json"
+            ],
+            "path": "deck/黑桃A/classic/满汉全席.json",
+            "author": "黑桃A",
+            "type": "deck",
+            "sub_type": "classic",
+            "resource_link": []
+        },
+        {
             "name": "火腿嘭嘭",
             "version": "1",
             "version_code": 1,
