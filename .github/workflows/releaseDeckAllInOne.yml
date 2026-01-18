@@ -6,8 +6,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      PACK_NAME: ""
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -40,11 +40,9 @@ jobs:
           name: Artifacts
           path: ./target/deck/index.json
       - name: Commit
-        uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        uses: EndBug/add-and-commit@v9
         with:
           add: '.'
           author_name: Github CI
           message: '[Bot] 刷新源数据'
           push: true
-          # remove: './deck/index.json'
-          # tag_push: '--force'
